@@ -1,0 +1,310 @@
+{
+  "README.md": {
+    "bytes": 4845,
+    "sha256": "fceac7227fbad5f682e439ff9092343289a7f2e221d034a8c65ee5fa7e3fd753"
+  },
+  "code/00_build_cohorts.py": {
+    "bytes": 1705,
+    "sha256": "09754a4d24a305ac4ccd769a99eafa648fc1bd6d2eeea5a5726bf3188f77c9bc"
+  },
+  "code/01_fetch_enrichment.py": {
+    "bytes": 3592,
+    "sha256": "fea9b82c2f0f686753953216ae0158d51639d39d1010a54e35708190e62cc051"
+  },
+  "code/02_extract_enrichment.py": {
+    "bytes": 5509,
+    "sha256": "24ba0d97f6e57a8aadfa6b4f8bdd5b4c0c9d92158552879a2511ab7232c27597"
+  },
+  "code/03_technology_analysis.py": {
+    "bytes": 18354,
+    "sha256": "e283d89237347876568b37b06489e844471e1f8c8bd469f3f53962024768355a"
+  },
+  "code/04_visualizations.py": {
+    "bytes": 10144,
+    "sha256": "b3c86b8955a15586cf6add686d06dda17bdfd80999ea8172c787560c2b7f24ce"
+  },
+  "code/05_report.py": {
+    "bytes": 29905,
+    "sha256": "4eaa1a763c17a7cb25a40b2eebf26dd8b4e1fc88257eb90ff22b4d18a723c5ad"
+  },
+  "code/06_verify_and_package.py": {
+    "bytes": 8487,
+    "sha256": "9138d6e7767bda7a7f3a20ee4c6cac6d69e4f6f6d3749c56746ca32f3acd3c27"
+  },
+  "data/US11847550.pdf": {
+    "bytes": 3482935,
+    "sha256": "b59cf99bc3c7feb3731e27f7386948b4aebdd067ef7305d1d0330d056779e16e"
+  },
+  "data/analysis_patent_cohorts.csv.gz": {
+    "bytes": 2047827,
+    "sha256": "0a77bed1852ab810358762a6b51888f315d5818dbcd385731a408bf12009c540"
+  },
+  "data/case_study_manifest.json": {
+    "bytes": 520,
+    "sha256": "aa9dfaef4a72cac49abb78ee99b537af55f925f4cbb2d0be6079f0ef62fe5d22"
+  },
+  "data/cohort_frame.csv": {
+    "bytes": 641214,
+    "sha256": "f4fdc65071bfba1448107e9ac63d25d56f0ab996fd3b38ffd2d897dc55beb256"
+  },
+  "data/cohort_provenance.json": {
+    "bytes": 610,
+    "sha256": "eb12c6c02bbc67a621d280c7e073f3f38ecc51c9b3943b4977d93c7c9836f987"
+  },
+  "data/cpc_titles_subset.csv.gz": {
+    "bytes": 2943306,
+    "sha256": "d9bd9f3dca421c98674e6be807c5c83ff9dae19320c7fde2901523e8455ea2c1"
+  },
+  "data/data_dictionary.csv": {
+    "bytes": 14902,
+    "sha256": "382182731905d6a51db7472cad59bd21d5c39a713d0fc76a11204109ee6fb341"
+  },
+  "data/enriched_patent_cohorts.csv.gz": {
+    "bytes": 1786588,
+    "sha256": "2c9638baabb02539757eb7b29338cd8edaed6098e7f5c9575b37beb0fe87dd8e"
+  },
+  "data/g_application_extraction_audit.json": {
+    "bytes": 145,
+    "sha256": "670d72a2fc2647b1ce2af634b276962310fd80777ba0067556df26b15255e7dd"
+  },
+  "data/g_application_subset.csv.gz": {
+    "bytes": 66133,
+    "sha256": "9a912146057de4516dfe2a968aa8699f72d7438081ba559ddc8d37f9678f1295"
+  },
+  "data/g_cpc_at_issue_extraction_audit.json": {
+    "bytes": 148,
+    "sha256": "af3856b3ca5170f735a59c031c3b89f3504313f3f938c730e3138fb0f977455a"
+  },
+  "data/g_cpc_at_issue_subset.csv.gz": {
+    "bytes": 292595,
+    "sha256": "a94b6120adb6ffa988784b27f101c2910ca793cd46cc4d986f19124464f9f4a5"
+  },
+  "data/g_cpc_current_extraction_audit.json": {
+    "bytes": 147,
+    "sha256": "d9da7f200e74ec2ce7eb8ec7e7419ecd9bded4c8a1ad896a3ffb69ac22d18cac"
+  },
+  "data/g_cpc_current_subset.csv.gz": {
+    "bytes": 389502,
+    "sha256": "9258ae37c3d694394ca7d9ec754a6f06f99fdff53db82de968ca8f211e2d4d05"
+  },
+  "data/g_cpc_title.tsv.zip": {
+    "bytes": 6427461,
+    "sha256": "0797d39eb398469b05110c154111b4b6a371ac92d2f276e7bbbcfce02e84a4e6"
+  },
+  "data/g_patent_abstract_extraction_audit.json": {
+    "bytes": 149,
+    "sha256": "efc91eafb136fffc3342470a2657c2e24f35a021efb99959e6c39ebc50b00b48"
+  },
+  "data/g_patent_abstract_subset.csv.gz": {
+    "bytes": 1368738,
+    "sha256": "c2e4a305429c823f68062007879bcb27fe8bacaa7a44c71893389b710ee771e1"
+  },
+  "data/g_patent_extraction_audit.json": {
+    "bytes": 140,
+    "sha256": "89803d980ae0f447c613bbc254d2f84b016b2f98e17e02f8f02255ec51e5f24c"
+  },
+  "data/g_patent_subset.csv.gz": {
+    "bytes": 211859,
+    "sha256": "2890dba368b6d263236f31bfb40d28b22a0a3f3d97dc094791df21c644c31199"
+  },
+  "data/source_manifest.json": {
+    "bytes": 1647,
+    "sha256": "943d7ae4726e7bada62a1f309490ced3e063db8f703981472116a82e64e8dbc6"
+  },
+  "data/text_rules.json": {
+    "bytes": 1243,
+    "sha256": "94a51393718055ba4f7b1358ac64a1462635bd288441e190fb620ac181125d2c"
+  },
+  "outputs/cpc_text_quality.html": {
+    "bytes": 3368,
+    "sha256": "d57269c7c5c900e7bfb69244ca35695c2e1faf97e8f926ab55a3b0934b8df2fb"
+  },
+  "outputs/cpc_text_quality.md": {
+    "bytes": 1561,
+    "sha256": "fd20aa4649b8594a24d6f379a84642174fd0dab37b4028d7f44959beb55401ed"
+  },
+  "outputs/enrichment_audit.json": {
+    "bytes": 1327,
+    "sha256": "754ab0b65e7d8bbae8803ed1570a1260fb00cd351776401a69e500d0f5c3daf6"
+  },
+  "outputs/figures/01_qualcomm_denominator.png": {
+    "bytes": 132123,
+    "sha256": "9689ad9f2ccc663354e04fc8653b92a63d1fb67ea183e8c050b5db8addf40700"
+  },
+  "outputs/figures/01_qualcomm_denominator.svg": {
+    "bytes": 10491,
+    "sha256": "50327cf9208cbf3ebcf4472209579f89c91518e6e8dff7484579816e2065b3e8"
+  },
+  "outputs/figures/02_qualcomm_text.png": {
+    "bytes": 149482,
+    "sha256": "3bb53ec22c3315270bd530ed4b881a5c6522753e6db4cfaf15bfa49a221c0643"
+  },
+  "outputs/figures/02_qualcomm_text.svg": {
+    "bytes": 12903,
+    "sha256": "a739c4b38c5f11e0571e0b6eccf16f33a7b5eec839a4a21e78101c585eb9ad98"
+  },
+  "outputs/figures/03_qualcomm_filing_timing.png": {
+    "bytes": 108576,
+    "sha256": "22491e831f5622c61a06d255cdeb7addcf421f3a307aa9e122d6d81709c01408"
+  },
+  "outputs/figures/03_qualcomm_filing_timing.svg": {
+    "bytes": 18014,
+    "sha256": "bf50c344cbf0ed851782601769881f60e83077c6fe333d2b897a4c5a6e5da1ff"
+  },
+  "outputs/figures/04_nvidia_cpc.png": {
+    "bytes": 184813,
+    "sha256": "7021e84d48ba8d21bf35bb80e698c81eb4fdf4158f8643b09ff3869787343283"
+  },
+  "outputs/figures/04_nvidia_cpc.svg": {
+    "bytes": 14955,
+    "sha256": "d1fcfe77b132c1f33f42dc8ba3972427d4e396f1e3b22048c56e8b60a17d2569"
+  },
+  "outputs/figures/05_nvidia_ml_partition.png": {
+    "bytes": 129016,
+    "sha256": "9feccaef4d314caa3919e2dd5981657c68c95f77eab2ce9def59ca1f871e35fb"
+  },
+  "outputs/figures/05_nvidia_ml_partition.svg": {
+    "bytes": 10850,
+    "sha256": "5b3c1f7627945f9f5bf028006ceca0a56fdb6b7077e4ebc152ecdbdd8d1b3712"
+  },
+  "outputs/figures/06_nvidia_text.png": {
+    "bytes": 121440,
+    "sha256": "74e0ee9bfae30ffed206151dc2735502f1dda973e40913b4de83e4faa3f1d78d"
+  },
+  "outputs/figures/06_nvidia_text.svg": {
+    "bytes": 11221,
+    "sha256": "b365d4388717cd0de0e7b407d126ecd3292cbb018af9c5ecd26494b377c6b8b7"
+  },
+  "outputs/key_findings.json": {
+    "bytes": 300,
+    "sha256": "7ca26d53abc1bb41df2eacd55f98f53edca67684856ba67b2a2495431f1f29d5"
+  },
+  "outputs/research_log.jsonl": {
+    "bytes": 10037,
+    "sha256": "e19b88c7c176117f0aa067b46d38bb427931dc9c0124b9af9b6a21ff085204b2"
+  },
+  "outputs/research_log.md": {
+    "bytes": 10276,
+    "sha256": "2aa9d8e94f2aa2638cf463c421b64c21902fb5b124fb79783f42f5bf650bbfe8"
+  },
+  "outputs/statistical_analysis.html": {
+    "bytes": 3394,
+    "sha256": "0debe36ab2985270a1236868e2db207bdd08512dd579d4715636f97a7cc7eae3"
+  },
+  "outputs/statistical_analysis.md": {
+    "bytes": 1611,
+    "sha256": "6f5c37e62d0fab8282844e362056928bad2e3c2b7a287763ec8a825085a9a574"
+  },
+  "outputs/tables/accelerator_classifier_anomaly.csv": {
+    "bytes": 2908,
+    "sha256": "738c4c9f71ec729640cd88dc26b6d47ef7596e423e287d31c83fd46d4452efd6"
+  },
+  "outputs/tables/application_id_internal_check.csv": {
+    "bytes": 125,
+    "sha256": "2e99df1bbaafd26feeea050aea8136a8bb97c06786573d0a4350eee7a79b3e84"
+  },
+  "outputs/tables/cohort_summary.csv": {
+    "bytes": 382,
+    "sha256": "7b6dd19f000e9b30f4ac8942a2cb0ebbc882af9aac56d0e28d2fe88c4225e19d"
+  },
+  "outputs/tables/cpc_group_counts.csv": {
+    "bytes": 984562,
+    "sha256": "dd793ac75d05fa6c7a816d81141771c70e3c8ad650817495434edbb65626c45d"
+  },
+  "outputs/tables/cpc_subclass_counts.csv": {
+    "bytes": 80039,
+    "sha256": "4086d7628f2666c47ed64ab81409ad3585b3722ab43eb0b5a5a3811a87794cf7"
+  },
+  "outputs/tables/illustrative_patents.csv": {
+    "bytes": 5330,
+    "sha256": "987331d6bfcd8a652e741053cf2eddfd96fc2f18022d6c52a68eec4c70bcd249"
+  },
+  "outputs/tables/leave_one_quarter_out.csv": {
+    "bytes": 272,
+    "sha256": "1f5b114841d8131e6b8fbce8879d8442111c0cb669d2692462c03bb980c2fbfe"
+  },
+  "outputs/tables/nvidia_explicit_learning_below_ml86.csv": {
+    "bytes": 1139,
+    "sha256": "db715cb1079eb1450df05f2499b319adeca4ef789fece8cb7da92643d5f1ce07"
+  },
+  "outputs/tables/nvidia_key_intersections.csv": {
+    "bytes": 156,
+    "sha256": "e5cc15877750a8fe3b2e8c1fe2e1ef3160a66bedffafaad40a700f635a0d91f9"
+  },
+  "outputs/tables/nvidia_ml_additive_partition.csv": {
+    "bytes": 338,
+    "sha256": "63f6ddb012e3f06e1d45b2ccc46537b09604c32fb815e4de2a455439525bd938"
+  },
+  "outputs/tables/nvidia_paired_cpc_sensitivity.csv": {
+    "bytes": 1618,
+    "sha256": "6559c6b82ec024c48075d8e761b96280b6ca98f5c37a1a7358c1da9af148c9f0"
+  },
+  "outputs/tables/nvidia_phrase_contrasts.csv": {
+    "bytes": 29699,
+    "sha256": "c0d5c5343935ce331345ab42907d6538911c79c2a63550d104c69dbb9707fbcb"
+  },
+  "outputs/tables/nvidia_shift_sensitivity.csv": {
+    "bytes": 5088,
+    "sha256": "fdae2424f43d59cd0338cee1f5390e29f782051b089250844c38e3f57aea9232"
+  },
+  "outputs/tables/patents_without_current_cpc.csv": {
+    "bytes": 553,
+    "sha256": "f838d88f2a8b276208f07c2a0a7239f888f0f249c5a827ad40532affe2fb679f"
+  },
+  "outputs/tables/qualcomm_grant_lag.csv": {
+    "bytes": 202,
+    "sha256": "5a37327cc5ea0bcf063245ebfc5e6b25a9fc48b87990e5fd3a1ae501df6ee514"
+  },
+  "outputs/tables/qualcomm_growth_sensitivity.csv": {
+    "bytes": 1085,
+    "sha256": "20f6549f8851d119b35d1cf0923353f93701ecedac9da14481ad3c7d0e9480b0"
+  },
+  "outputs/tables/qualcomm_non_ai_additive_partition.csv": {
+    "bytes": 174,
+    "sha256": "bb4c036a46b256dd8c86acbbddc76e3272ae0364d3f2e190c660b9309aba5d82"
+  },
+  "outputs/tables/qualcomm_non_ai_filing_cohorts.csv": {
+    "bytes": 311,
+    "sha256": "b14f2d951f55079a3a6584ab21d39560212ad71dfededb8659b898596367e3d7"
+  },
+  "outputs/tables/qualcomm_non_ai_quarters.csv": {
+    "bytes": 115,
+    "sha256": "a7954f3ceb68655f93f13e054568d11561545890829352ea2b5323ee585879d1"
+  },
+  "outputs/tables/qualcomm_phrase_contrasts.csv": {
+    "bytes": 269862,
+    "sha256": "4cd07a10120e59092ef68d506ebb1465bf2625de506567aa624743256b34cec3"
+  },
+  "outputs/tables/share_change_accounting.csv": {
+    "bytes": 506,
+    "sha256": "fdb70665cdaaca7c06e9dc5408c0cfcb0b74bdae495ee61da4cb7dc96796c2a4"
+  },
+  "outputs/tables/text_theme_counts.csv": {
+    "bytes": 37502,
+    "sha256": "8124cca9d2f5e3c389d1000db6face076fb9eaece5519dc70d360aebd520c505"
+  },
+  "outputs/tables/timing_anomalies.csv": {
+    "bytes": 49,
+    "sha256": "039c8db4d54d37177335bdfb67eb638aae3ec556260a3c7d4bba24fa82bf2eb5"
+  },
+  "outputs/technology_report.html": {
+    "bytes": 1116011,
+    "sha256": "e775212ae98afc30d5a908bb1a9e5ae9f2d9a1681ef39fde9fe1e64167c3a68b"
+  },
+  "outputs/technology_report.md": {
+    "bytes": 12355,
+    "sha256": "768f4ba14c5211f4e9611dc384702ca5354b3fa5c4e3aad06c6810345aaa5e28"
+  },
+  "outputs/verification.json": {
+    "bytes": 941,
+    "sha256": "78a45446d1bbd44f62fc32b9cb9bc4fa11a7767c0e5df0ff37e8eb126071c61e"
+  },
+  "requirements.txt": {
+    "bytes": 80,
+    "sha256": "228a672b8505181c5ca8635b4c84cc737ca9fa57f3f40333217beed16adb4f60"
+  },
+  "run_pipeline.py": {
+    "bytes": 777,
+    "sha256": "cc1b4c939d56c2f992fe053be61d623b29744942801daa44f3932238df508cdf"
+  }
+}
