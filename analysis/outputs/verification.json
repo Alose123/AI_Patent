@@ -1,0 +1,10 @@
+{
+  "source_bytes_unchanged": true,
+  "all_source_rows_columns_values_preserved": true,
+  "annual_denominators_reconciled": true,
+  "all_threshold_counts_reconciled": true,
+  "nonhardware_hardware_partition_reconciled": true,
+  "count_decomposition_reconciled": true,
+  "within_sample_fraction_conserves_documents": true,
+  "ten_primary_tests_have_14_years": true
+}

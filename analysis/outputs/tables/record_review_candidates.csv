@@ -1,0 +1,223 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: analysis___outputs___tables___record_review_candidates.csv>
+index,source_row_number,doc_id,pub_dt,company,disambig_assignee_organization,predict50_any_ai,predict86_any_ai,predict93_any_ai,max_ai_score,review_reason,decision
+0,138035,7355601,2008-04-08,IBM,International Business Machines Corporation,1,1,1,0.9990086,shared membership,retain
+1,138036,7355601,2008-04-08,Microsoft,Microsoft Corporation,1,1,1,0.9990086,shared membership,retain
+2,271274,RE28853,1976-06-08,IBM,International Business Machines Corporation,1,1,1,0.94016677,valid reissue,retain
+3,271275,RE28866,1976-06-15,IBM,International Business Machines Corporation,0,0,0,0.0056953416,valid reissue,retain
+4,271276,RE28923,1976-08-03,IBM,International Business Machines Corporation,0,0,0,0.010172457,valid reissue,retain
+5,271277,RE28958,1976-09-07,IBM,International Business Machines Corporation,0,0,0,0.056547627,valid reissue,retain
+6,271278,RE29017,1976-10-26,IBM,International Business Machines Corporation,0,0,0,0.010881235,valid reissue,retain
+7,271279,RE29138,1977-02-15,IBM,International Business Machines Corporation,0,0,0,0.010240131,valid reissue,retain
+8,271280,RE29179,1977-04-12,IBM,International Business Machines Corporation,0,0,0,0.010706569,valid reissue,retain
+9,271281,RE29301,1977-07-12,IBM,International Business Machines Corporation,0,0,0,0.019616652,valid reissue,retain
+10,271282,RE29380,1977-08-30,IBM,International Business Machines Corporation,0,0,0,0.0031336201,valid reissue,retain
+11,271283,RE29918,1979-02-20,IBM,International Business Machines Corporation,0,0,0,0.066685289,valid reissue,retain
+12,271284,RE30187,1980-01-08,IBM,International Business Machines Corporation,0,0,0,0.0058746822,valid reissue,retain
+13,271285,RE30601,1981-05-05,IBM,International Business Machines Corporation,0,0,0,0.45263785,valid reissue,retain
+14,271286,RE30957,1982-06-01,IBM,International Business Machines Corporation,0,0,0,0.28668651,valid reissue,retain
+15,271287,RE31069,1982-10-26,IBM,International Business Machines Corporation,0,0,0,0.26038671,valid reissue,retain
+16,271288,RE31083,1982-11-16,IBM,International Business Machines Corporation,1,1,1,0.99963307,valid reissue,retain
+17,271289,RE31485,1984-01-03,IBM,International Business Machines Corporation,1,1,1,0.96653807,valid reissue,retain
+18,271290,RE31508,1984-01-24,IBM,International Business Machines Corporation,0,0,0,0.011383454,valid reissue,retain
+19,271291,RE31614,1984-06-26,IBM,International Business Machines Corporation,1,1,1,0.99983704,valid reissue,retain
+20,271292,RE31734,1984-11-13,IBM,International Business Machines Corporation,0,0,0,0.12882179,valid reissue,retain
+21,271293,RE31747,1984-11-27,IBM,International Business Machines Corporation,0,0,0,0.022869928,valid reissue,retain
+22,271294,RE32071,1986-01-21,IBM,International Business Machines Corporation,0,0,0,0.0093287937,valid reissue,retain
+23,271295,RE32193,1986-06-24,IBM,International Business Machines Corporation,0,0,0,0.010087849,valid reissue,retain
+24,271296,RE32236,1986-08-26,IBM,International Business Machines Corporation,0,0,0,0.044782709,valid reissue,retain
+25,271297,RE32401,1987-04-14,IBM,International Business Machines Corporation,0,0,0,0.38668165,valid reissue,retain
+26,271298,RE33387,1990-10-16,IBM,International Business Machines Corporation,0,0,0,0.001943975,valid reissue,retain
+27,271299,RE33604,1991-06-04,IBM,International Business Machines Corporation,0,0,0,0.0027586285,valid reissue,retain
+28,271300,RE33825,1992-02-18,IBM,International Business Machines Corporation,0,0,0,0.30610767,valid reissue,retain
+29,271301,RE33831,1992-02-25,IBM,International Business Machines Corporation,0,0,0,0.022575365,valid reissue,retain
+30,271302,RE33894,1992-04-21,IBM,International Business Machines Corporation,1,1,0,0.92353463,valid reissue,retain
+31,271303,RE33916,1992-05-05,IBM,International Business Machines Corporation,0,0,0,0.0051775435,valid reissue,retain
+32,271304,RE33972,1992-06-23,IBM,International Business Machines Corporation,0,0,0,0.29141831,valid reissue,retain
+33,271305,RE34052,1992-09-01,IBM,International Business Machines Corporation,1,0,0,0.70883745,valid reissue,retain
+34,271306,RE34099,1992-10-13,IBM,International Business Machines Corporation,0,0,0,0.14173165,valid reissue,retain
+35,271307,RE34524,1994-01-25,IBM,International Business Machines Corporation,0,0,0,0.0068658753,valid reissue,retain
+36,271308,RE34528,1994-02-01,IBM,International Business Machines Corporation,0,0,0,0.020496534,valid reissue,retain
+37,271309,RE34896,1995-04-04,IBM,International Business Machines Corporation,0,0,0,0.0069231736,valid reissue,retain
+38,271310,RE35262,1996-06-04,IBM,International Business Machines Corporation,0,0,0,0.0039269528,valid reissue,retain
+39,271311,RE35269,1996-06-11,IBM,International Business Machines Corporation,0,0,0,0.029021125,valid reissue,retain
+40,271312,RE35311,1996-08-06,IBM,International Business Machines Corporation,1,1,1,0.99997997,valid reissue,retain
+41,271313,RE35448,1997-02-11,IBM,International Business Machines Corporation,0,0,0,0.081062607,valid reissue,retain
+42,271314,RE35881,1998-08-25,Microsoft,Microsoft Corporation,0,0,0,0.43087316,valid reissue,retain
+43,271315,RE36286,1999-08-31,IBM,International Business Machines Corporation,0,0,0,0.14796764,valid reissue,retain
+44,271316,RE36394,1999-11-16,IBM,International Business Machines Corporation,0,0,0,0.010302912,valid reissue,retain
+45,271317,RE36422,1999-11-30,IBM,International Business Machines Corporation,0,0,0,0.31015366,valid reissue,retain
+46,271318,RE36444,1999-12-14,IBM,International Business Machines Corporation,0,0,0,0.19021839,valid reissue,retain
+47,271319,RE36448,1999-12-14,IBM,International Business Machines Corporation,0,0,0,0.016146425,valid reissue,retain
+48,271320,RE36462,1999-12-21,IBM,International Business Machines Corporation,1,1,1,0.99359208,valid reissue,retain
+49,271321,RE36538,2000-02-01,IBM,International Business Machines Corporation,0,0,0,0.026616409,valid reissue,retain
+50,271322,RE36603,2000-03-07,IBM,International Business Machines Corporation,0,0,0,0.015047583,valid reissue,retain
+51,271323,RE36656,2000-04-11,IBM,International Business Machines Corporation,1,1,1,0.9999994,valid reissue,retain
+52,271324,RE36846,2000-08-29,IBM,International Business Machines Corporation,0,0,0,0.097880006,valid reissue,retain
+53,271325,RE36864,2000-09-12,IBM,International Business Machines Corporation,0,0,0,0.0012981367,valid reissue,retain
+54,271326,RE37038,2001-01-30,IBM,International Business Machines Corporation,0,0,0,0.036667429,valid reissue,retain
+55,271327,RE37145,2001-04-24,IBM,International Business Machines Corporation,0,0,0,0.0033259778,valid reissue,retain
+56,271328,RE37299,2001-07-31,IBM,International Business Machines Corporation,0,0,0,0.013907675,valid reissue,retain
+57,271329,RE37305,2001-07-31,IBM,International Business Machines Corporation,0,0,0,0.029321758,valid reissue,retain
+58,271330,RE37364,2001-09-11,IBM,International Business Machines Corporation,0,0,0,0.0023797171,valid reissue,retain
+59,271331,RE37601,2002-03-19,IBM,International Business Machines Corporation,1,1,1,0.99368447,valid reissue,retain
+60,271332,RE37840,2002-09-17,IBM,International Business Machines Corporation,0,0,0,0.010643042,valid reissue,retain
+61,271333,RE37965,2003-01-07,IBM,International Business Machines Corporation,1,1,1,0.99917632,valid reissue,retain
+62,271334,RE38010,2003-02-25,Qualcomm,QUALCOMM Incorporated,0,0,0,0.0011572267,valid reissue,retain
+63,271335,RE38029,2003-03-11,IBM,IBM Corporation,0,0,0,0.0038946802,valid reissue,retain
+64,271336,RE38070,2003-04-08,Microsoft,Microsoft Corporation,1,1,1,0.9454959,valid reissue,retain
+65,271337,RE38270,2003-10-07,Microsoft,Microsoft Corporation,1,1,0,0.90629023,valid reissue,retain
+66,271338,RE38275,2003-10-14,IBM,International Business Machines Corporation,1,1,1,0.99942684,valid reissue,retain
+67,271339,RE38282,2003-10-21,IBM,International Business Machines Corporation,0,0,0,0.026458208,valid reissue,retain
+68,271340,RE38375,2003-12-30,IBM,International Business Machines Corporation,0,0,0,0.36446387,valid reissue,retain
+69,271341,RE38376,2003-12-30,Microsoft,Microsoft Corporation,0,0,0,0.033698112,valid reissue,retain
+70,271342,RE38596,2004-09-21,IBM,International Business Machines Corporation,0,0,0,0.0027506771,valid reissue,retain
+71,271343,RE38865,2005-11-01,IBM,International Business Machines Corporation,1,0,0,0.83962303,valid reissue,retain
+72,271344,RE38883,2005-11-22,Microsoft,Microsoft Corporation,1,0,0,0.76247084,valid reissue,retain
+73,271345,RE39177,2006-07-11,Qualcomm,QUALCOMM Incorporated,0,0,0,0.038796861,valid reissue,retain
+74,271346,RE39184,2006-07-11,IBM,International Business Machines Corporation,1,1,1,0.96666849,valid reissue,retain
+75,271347,RE39285,2006-09-12,Microsoft,Microsoft Corporation,0,0,0,0.44956341,valid reissue,retain
+76,271348,RE39326,2006-10-03,Microsoft,Microsoft Corporation,1,1,0,0.8650533,valid reissue,retain
+77,271349,RE39426,2006-12-12,IBM,International Business Machines Corporation,0,0,0,0.0026053095,valid reissue,retain
+78,271350,RE39501,2007-03-06,NVIDIA,Nvidia Corporation,0,0,0,0.48950636,valid reissue,retain
+79,271351,RE39801,2007-08-28,Microsoft,Microsoft Corporation,1,0,0,0.58727938,valid reissue,retain
+80,271352,RE39898,2007-10-30,NVIDIA,"NVIDIA International, Inc.",0,0,0,0.00071797741,valid reissue,retain
+81,271353,RE39925,2007-11-27,IBM,International Business Machines Corporation,0,0,0,0.25244159,valid reissue,retain
+82,271354,RE40339,2008-05-27,IBM,International Business Machines Corporation,0,0,0,0.0048405356,valid reissue,retain
+83,271355,RE40444,2008-07-29,IBM,International Business Machines Corporation,1,1,1,0.96162522,valid reissue,retain
+84,271356,RE40983,2009-11-17,IBM,International Business Machines Corporation,0,0,0,0.0045673102,valid reissue,retain
+85,271357,RE40989,2009-11-17,Microsoft,Microsoft Corporation,1,1,1,0.97410357,valid reissue,retain
+86,271358,RE41440,2010-07-13,IBM,International Business Machines Corporation,0,0,0,0.43233401,valid reissue,retain
+87,271359,RE41773,2010-09-28,Qualcomm,QUALCOMM Incorporated,0,0,0,0.052995101,valid reissue,retain
+88,271360,RE42119,2011-02-08,Qualcomm,"QUALCOMM MEMS Technologies, Inc.",1,0,0,0.85231447,valid reissue,retain
+89,271361,RE42271,2011-04-05,IBM,International Business Machines Corporation,0,0,0,0.042350613,valid reissue,retain
+90,271362,RE42543,2011-07-12,Qualcomm,QUALCOMM Incorporated,0,0,0,0.083280817,valid reissue,retain
+91,271363,RE42586,2011-08-02,Qualcomm,QUALCOMM Incorporated,0,0,0,0.01086709,valid reissue,retain
+92,271364,RE43545,2012-07-24,Microsoft,Microsoft Corporation,1,1,1,0.99961507,valid reissue,retain
+93,271365,RE43741,2012-10-16,Qualcomm,QUALCOMM Incorporated,0,0,0,0.11411691,valid reissue,retain
+94,271366,RE44201,2013-05-07,Qualcomm,QUALCOMM Incorporated,1,1,0,0.890194,valid reissue,retain
+95,271367,RE44342,2013-07-02,IBM,International Business Machines Corporation,0,0,0,0.0029728226,valid reissue,retain
+96,271368,RE44577,2013-11-05,Qualcomm,QUALCOMM Incorporated,0,0,0,0.034107756,valid reissue,retain
+97,271369,RE44722,2014-01-21,Microsoft,Microsoft Corporation,1,1,1,0.99999988,valid reissue,retain
+98,271370,RE44724,2014-01-21,Google,GOOGLE LLC,1,1,1,0.95756441,valid reissue,retain
+99,271371,RE44725,2014-01-21,Microsoft,Microsoft Corporation,1,1,1,0.99936134,valid reissue,retain
+100,271372,RE44899,2014-05-13,Google,GOOGLE LLC,1,1,0,0.91326088,valid reissue,retain
+101,271373,RE45034,2014-07-22,IBM,International Business Machines Corporation,0,0,0,0.0091796005,valid reissue,retain
+102,271374,RE45184,2014-10-07,IBM,International Business Machines Corporation,0,0,0,0.45370093,valid reissue,retain
+103,271375,RE45236,2014-11-11,Qualcomm,QUALCOMM Incorporated,0,0,0,0.0070175114,valid reissue,retain
+104,271376,RE45241,2014-11-11,Qualcomm,QUALCOMM Incorporated,0,0,0,0.040958729,valid reissue,retain
+105,271377,RE45260,2014-11-25,Microsoft,Microsoft Corporation,1,0,0,0.8212499,valid reissue,retain
+106,271378,RE45273,2014-12-02,Qualcomm,QUALCOMM Incorporated,0,0,0,0.0077144625,valid reissue,retain
+107,271379,RE45421,2015-03-17,Qualcomm,QUALCOMM Incorporated,0,0,0,0.15608978,valid reissue,retain
+108,271380,RE45566,2015-06-16,Qualcomm,QUALCOMM Incorporated,1,1,1,0.99992025,valid reissue,retain
+109,271381,RE45757,2015-10-13,NVIDIA,Nvidia Corporation,0,0,0,0.32749707,valid reissue,retain
+110,271382,RE45808,2015-11-17,Qualcomm,QUALCOMM Incorporated,0,0,0,0.0038232307,valid reissue,retain
+111,271383,RE45952,2016-03-29,Google,GOOGLE LLC,1,1,1,0.9999975,valid reissue,retain
+112,271384,RE46219,2016-11-29,Google,GOOGLE LLC,1,0,0,0.74854982,valid reissue,retain
+113,271385,RE46301,2017-02-07,Microsoft,"Microsoft Technology Licensing, LLC",1,1,1,0.99951553,valid reissue,retain
+114,271386,RE46501,2017-08-01,Microsoft,"Microsoft Technology Licensing, LLC",0,0,0,0.30092195,valid reissue,retain
+115,271387,RE46748,2018-03-06,IBM,International Business Machines Corporation,1,1,1,0.99948335,valid reissue,retain
+116,271388,RE47110,2018-10-30,Qualcomm,QUALCOMM Incorporated,0,0,0,0.0013163503,valid reissue,retain
+117,271389,RE47152,2018-12-04,Microsoft,"Microsoft Technology Licensing, LLC",1,1,1,0.98203653,valid reissue,retain
+118,271390,RE47228,2019-02-05,Qualcomm,QUALCOMM Incorporated,0,0,0,0.0057085347,valid reissue,retain
+119,271391,RE47518,2019-07-16,Microsoft,"Microsoft Technology Licensing, LLC",1,1,1,0.99951553,valid reissue,retain
+120,271392,RE47764,2019-12-10,Microsoft,"Microsoft Technology Licensing, LLC",0,0,0,0.0022692971,valid reissue,retain
+121,271393,RE47772,2019-12-17,NVIDIA,Nvidia Corporation,0,0,0,0.10138893,valid reissue,retain
+122,271394,RE47852,2020-02-11,Microsoft,"Microsoft Technology Licensing, LLC",1,0,0,0.53261727,valid reissue,retain
+123,271395,RE47865,2020-02-18,Microsoft,"Microsoft Technology Licensing, LLC",1,0,0,0.54434413,valid reissue,retain
+124,271396,RE47937,2020-04-07,Google,GOOGLE LLC,1,1,1,0.94271815,valid reissue,retain
+125,271397,RE47952,2020-04-14,Google,GOOGLE LLC,1,0,0,0.71310633,valid reissue,retain
+126,271398,RE47974,2020-05-05,Google,GOOGLE LLC,1,1,1,0.99999988,valid reissue,retain
+127,271399,RE47984,2020-05-12,NVIDIA,Nvidia Corporation,1,1,1,0.99721849,valid reissue,retain
+128,271400,RE47992,2020-05-12,Google,GOOGLE LLC,0,0,0,0.13148284,valid reissue,retain
+129,271401,RE48001,2020-05-19,Qualcomm,QUALCOMM Incorporated,0,0,0,0.45499173,valid reissue,retain
+130,271402,RE48405,2021-01-26,Microsoft,"Microsoft Technology Licensing, LLC",1,1,1,0.99776399,valid reissue,retain
+131,271403,RE48709,2021-08-24,Qualcomm,QUALCOMM Incorporated,0,0,0,0.0050816354,valid reissue,retain
+132,271404,RE48820,2021-11-16,Microsoft,"Microsoft Technology Licensing, LLC",0,0,0,0.0022692971,valid reissue,retain
+133,271405,RE48876,2022-01-04,NVIDIA,Nvidia Corporation,1,1,0,0.89997321,valid reissue,retain
+134,271406,RE48963,2022-03-08,Microsoft,"Microsoft Technology Licensing, LLC",0,0,0,0.086957105,valid reissue,retain
+135,271407,RE49039,2022-04-19,Qualcomm,QUALCOMM Incorporated,1,1,0,0.91647834,valid reissue,retain
+136,271408,RE49262,2022-10-25,Google,GOOGLE LLC,1,0,0,0.71310633,valid reissue,retain
+137,271409,RE49366,2023-01-10,Microsoft,"Microsoft Technology Licensing, LLC",1,1,1,0.94448185,valid reissue,retain
+138,271410,RE49591,2023-07-25,Qualcomm,QUALCOMM Incorporated,0,0,0,0.4621681,valid reissue,retain
+139,271411,RE49615,2023-08-15,Google,GOOGLE LLC,1,0,0,0.84762132,valid reissue,retain
+140,271412,RE49652,2023-09-12,Qualcomm,QUALCOMM Incorporated,0,0,0,0.17965595,valid reissue,retain
+141,271413,RE49664,2023-09-19,Google,GOOGLE LLC,0,0,0,0.43890569,valid reissue,retain
+142,271414,RE49711,2023-10-24,NVIDIA,Nvidia Corporation,0,0,0,0.14073586,valid reissue,retain
+143,271415,RE49712,2023-10-24,Google,GOOGLE LLC,1,1,1,0.9997564,valid reissue,retain
+144,271416,RE49748,2023-12-05,Google,GOOGLE LLC,0,0,0,0.041084237,valid reissue,retain
+145,78423,3930729,1976-01-06,IBM,International Business Machines Corporation,0,0,0,0.0026409668,earliest observed company grants,retain
+146,78431,3931645,1976-01-06,IBM,International Business Machines Corporation,0,0,0,0.0025782515,earliest observed company grants,retain
+147,78430,3931641,1976-01-06,IBM,International Business Machines Corporation,0,0,0,0.0056732455,earliest observed company grants,retain
+148,78429,3931639,1976-01-06,IBM,International Business Machines Corporation,0,0,0,0.0012151841,earliest observed company grants,retain
+149,78424,3930857,1976-01-06,IBM,International Business Machines Corporation,0,0,0,0.0051694545,earliest observed company grants,retain
+150,83383,4588074,1986-05-13,Microsoft,Microsoft Corporation,0,0,0,0.023195019,earliest observed company grants,retain
+151,84800,4779187,1988-10-18,Microsoft,Microsoft Corporation,0,0,0,0.48653367,earliest observed company grants,retain
+152,85113,4825358,1989-04-25,Microsoft,Microsoft Corporation,0,0,0,0.00061681395,earliest observed company grants,retain
+153,85363,4866602,1989-09-12,Microsoft,Microsoft Corporation,0,0,0,0.0028639608,earliest observed company grants,retain
+154,85440,4876554,1989-10-24,Qualcomm,QUALCOMM Incorporated,0,0,0,0.026300296,earliest observed company grants,retain
+155,85598,4901265,1990-02-13,Qualcomm,QUALCOMM Incorporated,0,0,0,0.007416077,earliest observed company grants,retain
+156,85600,4901307,1990-02-13,Qualcomm,QUALCOMM Incorporated,0,0,0,0.0011064543,earliest observed company grants,retain
+157,85627,4905177,1990-02-27,Qualcomm,QUALCOMM Incorporated,0,0,0,0.03017313,earliest observed company grants,retain
+158,85764,4926130,1990-05-15,Qualcomm,QUALCOMM Incorporated,0,0,0,0.0035003233,earliest observed company grants,retain
+159,85963,4955066,1990-09-04,Microsoft,Microsoft Corporation,1,1,1,0.99997473,earliest observed company grants,retain
+160,94124,5619658,1997-04-08,NVIDIA,Nvidia Corporation,0,0,0,0.0025009555,earliest observed company grants,retain
+161,94200,5623692,1997-04-22,NVIDIA,Nvidia Corporation,1,1,1,0.99306047,earliest observed company grants,retain
+162,94507,5638535,1997-06-10,NVIDIA,Nvidia Corporation,0,0,0,0.013062127,earliest observed company grants,retain
+163,94554,5640591,1997-06-17,NVIDIA,Nvidia Corporation,1,1,1,0.9423421,earliest observed company grants,retain
+164,94758,5652793,1997-07-29,NVIDIA,Nvidia Corporation,1,0,0,0.63522285,earliest observed company grants,retain
+165,113986,6526440,2003-02-25,Google,GOOGLE LLC,1,1,1,0.99999869,earliest observed company grants,retain
+166,114083,6529903,2003-03-04,Google,GOOGLE LLC,1,1,1,1.0,earliest observed company grants,retain
+167,116051,6615209,2003-09-02,Google,GOOGLE LLC,1,1,1,0.99999917,earliest observed company grants,retain
+168,117119,6658423,2003-12-02,Google,GOOGLE LLC,1,1,1,0.99878198,earliest observed company grants,retain
+169,117680,6678681,2004-01-13,Google,GOOGLE LLC,1,1,1,0.99999726,earliest observed company grants,retain
+170,231436,9253328,2016-02-02,IBM,International Business Machines Corporation,1,0,0,0.85999942,near 86% cutoff,retain
+171,139866,7395534,2008-07-01,Microsoft,Microsoft Corporation,1,0,0,0.85999316,near 86% cutoff,retain
+172,257932,9740535,2017-08-22,IBM,International Business Machines Corporation,1,0,0,0.85998881,near 86% cutoff,retain
+173,172715,8095691,2012-01-10,IBM,International Business Machines Corporation,1,0,0,0.85998881,near 86% cutoff,retain
+174,249502,9584323,2017-02-28,IBM,International Business Machines Corporation,1,1,0,0.86002684,near 86% cutoff,retain
+175,175929,8160734,2012-04-17,IBM,International Business Machines Corporation,1,1,0,0.86002886,near 86% cutoff,retain
+176,174767,8136066,2012-03-13,IBM,International Business Machines Corporation,1,1,0,0.86002982,near 86% cutoff,retain
+177,74336,11742867,2023-08-29,Microsoft,"Microsoft Technology Licensing, LLC",1,0,0,0.85996449,near 86% cutoff,retain
+178,136679,7317791,2008-01-08,IBM,International Business Machines Corporation,1,0,0,0.85996372,near 86% cutoff,retain
+179,105579,6178548,2001-01-23,IBM,International Business Machines Corporation,1,0,0,0.85995817,near 86% cutoff,retain
+180,230288,9235452,2016-01-12,Microsoft,"Microsoft Technology Licensing, LLC",1,1,0,0.86004233,near 86% cutoff,retain
+181,28647,10587543,2020-03-10,Google,GOOGLE LLC,1,1,0,0.86005145,near 86% cutoff,retain
+182,53555,11159542,2021-10-26,Microsoft,"Microsoft Technology Licensing, LLC",1,1,0,0.86005741,near 86% cutoff,retain
+183,143050,7467366,2008-12-16,IBM,International Business Machines Corporation,1,1,0,0.86006111,near 86% cutoff,retain
+184,241306,9436719,2016-09-06,Microsoft,"Microsoft Technology Licensing, LLC",1,1,0,0.86006486,near 86% cutoff,retain
+185,52995,11150958,2021-10-19,Microsoft,"Microsoft Technology Licensing, LLC",1,0,0,0.85993165,near 86% cutoff,retain
+186,244988,9503494,2016-11-22,Google,GOOGLE LLC,1,0,0,0.85992944,near 86% cutoff,retain
+187,264332,9871711,2018-01-16,Microsoft,"Microsoft Technology Licensing, LLC",1,0,0,0.85992658,near 86% cutoff,retain
+188,161013,7835359,2010-11-16,IBM,International Business Machines Corporation,1,0,0,0.85992384,near 86% cutoff,retain
+189,47231,11012709,2021-05-18,Microsoft,"Microsoft Technology Licensing, LLC",1,1,0,0.86007804,near 86% cutoff,retain
+190,9366,10180840,2019-01-15,Microsoft,"Microsoft Technology Licensing, LLC",1,0,0,0.85990947,near 86% cutoff,retain
+191,13611,10268367,2019-04-23,Microsoft,"Microsoft Technology Licensing, LLC",1,0,0,0.85989338,near 86% cutoff,retain
+192,40880,10866290,2020-12-15,Google,GOOGLE LLC,1,0,0,0.8598724,near 86% cutoff,retain
+193,38802,10812366,2020-10-20,Google,GOOGLE LLC,1,1,0,0.86016685,near 86% cutoff,retain
+194,16662,10331603,2019-06-25,NVIDIA,Nvidia Corporation,1,1,0,0.86019397,near 86% cutoff,retain
+195,245988,9521642,2016-12-13,Qualcomm,QUALCOMM Incorporated,1,1,0,0.86021417,near 86% cutoff,retain
+196,261131,9805406,2017-10-31,Google,GOOGLE LLC,1,0,0,0.85978013,near 86% cutoff,retain
+197,232149,9264868,2016-02-16,Qualcomm,QUALCOMM Incorporated,1,0,0,0.85977244,near 86% cutoff,retain
+198,213139,8909962,2014-12-09,Qualcomm,QUALCOMM Incorporated,1,0,0,0.85972673,near 86% cutoff,retain
+199,10810,10217444,2019-02-26,NVIDIA,Nvidia Corporation,1,0,0,0.8597244,near 86% cutoff,retain
+200,243665,9478042,2016-10-25,Google,GOOGLE LLC,1,0,0,0.85971183,near 86% cutoff,retain
+201,220606,9049569,2015-06-02,Google,GOOGLE LLC,1,1,0,0.86032504,near 86% cutoff,retain
+202,7236,10147024,2018-12-04,Qualcomm,QUALCOMM Incorporated,1,0,0,0.85960656,near 86% cutoff,retain
+203,261785,9820004,2017-11-14,Google,GOOGLE LLC,1,1,0,0.86041981,near 86% cutoff,retain
+204,168728,8000411,2011-08-16,Qualcomm,QUALCOMM Incorporated,1,0,0,0.85956913,near 86% cutoff,retain
+205,207556,8806400,2014-08-12,Qualcomm,QUALCOMM Incorporated,1,1,0,0.86048591,near 86% cutoff,retain
+206,255115,9690601,2017-06-27,Google,GOOGLE LLC,1,1,0,0.86051583,near 86% cutoff,retain
+207,263602,9858686,2018-01-02,Google,GOOGLE LLC,1,0,0,0.85948122,near 86% cutoff,retain
+208,174387,8130535,2012-03-06,Qualcomm,QUALCOMM Incorporated,1,0,0,0.85947531,near 86% cutoff,retain
+209,25418,10531284,2020-01-07,Qualcomm,QUALCOMM Incorporated,1,0,0,0.85944396,near 86% cutoff,retain
+210,235218,9319679,2016-04-19,Qualcomm,QUALCOMM Incorporated,1,1,0,0.86061144,near 86% cutoff,retain
+211,182628,8306093,2012-11-06,Qualcomm,QUALCOMM Incorporated,1,1,0,0.86065322,near 86% cutoff,retain
+212,63328,11430172,2022-08-30,NVIDIA,Nvidia Corporation,1,0,0,0.85858184,near 86% cutoff,retain
+213,126551,7002588,2006-02-21,NVIDIA,Nvidia Corporation,1,0,0,0.85846341,near 86% cutoff,retain
+214,184214,8341380,2012-12-25,NVIDIA,Nvidia Corporation,1,0,0,0.85836458,near 86% cutoff,retain
+215,253106,9652282,2017-05-16,NVIDIA,Nvidia Corporation,1,1,0,0.86186653,near 86% cutoff,retain
+216,160626,7825937,2010-11-02,NVIDIA,Nvidia Corporation,1,1,0,0.86259848,near 86% cutoff,retain
+217,46055,10983919,2021-04-20,NVIDIA,Nvidia Corporation,1,0,0,0.85721254,near 86% cutoff,retain
+218,172622,8094670,2012-01-10,NVIDIA,Nvidia Corporation,1,0,0,0.85696977,near 86% cutoff,retain
+219,31424,10642744,2020-05-05,NVIDIA,Nvidia Corporation,1,0,0,0.85662067,near 86% cutoff,retain
