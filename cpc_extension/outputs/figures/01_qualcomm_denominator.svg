@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="648pt" height="417.6pt" viewBox="0 0 648 417.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-04T10:29:08.046704</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 417.6 
+L 648 417.6 
+L 648 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 77.76 342.432 
+L 628.56 342.432 
+L 628.56 62.64 
+L 77.76 62.64 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 102.796364 342.432 
+L 280.473783 342.432 
+L 280.473783 243.919189 
+L 102.796364 243.919189 
+z
+" clip-path="url(#pb5049d27b8)" style="fill: #167d8d"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 425.846217 342.432 
+L 603.523636 342.432 
+L 603.523636 139.289994 
+L 425.846217 139.289994 
+z
+" clip-path="url(#pb5049d27b8)" style="fill: #167d8d"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 102.796364 243.919189 
+L 280.473783 243.919189 
+L 280.473783 223.422798 
+L 102.796364 223.422798 
+z
+" clip-path="url(#pb5049d27b8)" style="fill: #d3dfe3"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 425.846217 139.289994 
+L 603.523636 139.289994 
+L 603.523636 118.207993 
+L 425.846217 118.207993 
+z
+" clip-path="url(#pb5049d27b8)" style="fill: #d3dfe3"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m54f76c2ed1" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m54f76c2ed1" x="191.635073" y="342.432" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="191.635073" y="357.790281" transform="rotate(-0 191.635073 357.790281)">2021</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m54f76c2ed1" x="514.684927" y="342.432" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="514.684927" y="357.790281" transform="rotate(-0 514.684927 357.790281)">2023</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_3">
+      <defs>
+       <path id="mfaa3d7c527" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mfaa3d7c527" x="77.76" y="342.432" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="70.76" y="346.611141" transform="rotate(-0 70.76 346.611141)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mfaa3d7c527" x="77.76" y="309.898047" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="70.76" y="314.077187" transform="rotate(-0 70.76 314.077187)">500</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#mfaa3d7c527" x="77.76" y="277.364093" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="70.76" y="281.543234" transform="rotate(-0 70.76 281.543234)">1000</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mfaa3d7c527" x="77.76" y="244.83014" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="70.76" y="249.00928" transform="rotate(-0 70.76 249.00928)">1500</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#mfaa3d7c527" x="77.76" y="212.296186" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="70.76" y="216.475327" transform="rotate(-0 70.76 216.475327)">2000</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#mfaa3d7c527" x="77.76" y="179.762233" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="70.76" y="183.941373" transform="rotate(-0 70.76 183.941373)">2500</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#mfaa3d7c527" x="77.76" y="147.228279" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="70.76" y="151.40742" transform="rotate(-0 70.76 151.40742)">3000</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#mfaa3d7c527" x="77.76" y="114.694326" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="70.76" y="118.873466" transform="rotate(-0 70.76 118.873466)">3500</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#mfaa3d7c527" x="77.76" y="82.160372" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="70.76" y="86.339513" transform="rotate(-0 70.76 86.339513)">4000</text>
+     </g>
+    </g>
+    <g id="text_12">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263c46" x="36.477344" y="202.536" transform="rotate(-90 36.477344 202.536)">Classifier-negative grants (AI86 = 0)</text>
+    </g>
+   </g>
+   <g id="patch_7">
+    <path d="M 77.76 342.432 
+L 77.76 62.64 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 77.76 342.432 
+L 628.56 342.432 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="191.635073" y="297.038719" transform="rotate(-0 191.635073 297.038719)">1,514</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263c46" x="191.635073" y="236.706306" transform="rotate(-0 191.635073 236.706306)">315</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263c46" x="191.635073" y="219.193384" transform="rotate(-0 191.635073 219.193384)">1,829</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="514.684927" y="244.724122" transform="rotate(-0 514.684927 244.724122)">3,122</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263c46" x="514.684927" y="131.784306" transform="rotate(-0 514.684927 131.784306)">324</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263c46" x="514.684927" y="113.978579" transform="rotate(-0 514.684927 113.978579)">3,446</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #263c46" transform="translate(88.776 120.270406)">1,608 of 1,617 additional grants</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #263c46" transform="translate(88.776 132.588)">carry a communications CPC code (99.4%).</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_9">
+     <path d="M 86.76 79.238437 
+L 106.76 79.238437 
+L 106.76 72.238437 
+L 86.76 72.238437 
+z
+" style="fill: #167d8d"/>
+    </g>
+    <g id="text_20">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #263c46" x="114.76" y="79.238437" transform="rotate(-0 114.76 79.238437)">Communications CPC present</text>
+    </g>
+    <g id="patch_10">
+     <path d="M 86.76 93.916562 
+L 106.76 93.916562 
+L 106.76 86.916562 
+L 86.76 86.916562 
+z
+" style="fill: #d3dfe3"/>
+    </g>
+    <g id="text_21">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #263c46" x="114.76" y="93.916562" transform="rotate(-0 114.76 93.916562)">Other / no current CPC</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_22">
+   <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #263c46" x="22.68" y="20.5095" transform="rotate(-0 22.68 20.5095)">Qualcomm: communications drive the denominator expansion</text>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #53636c" transform="translate(22.68 395.21025)">Communications = any H04W/L/B/J/K/M code, current December 2024 snapshot. Each grant counted once.</text>
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #53636c" transform="translate(22.68 405.288281)">Classifier-negative does not establish absence of AI; all grants, including reissues, are retained.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pb5049d27b8">
+   <rect x="77.76" y="62.64" width="550.8" height="279.792"/>
+  </clipPath>
+ </defs>
+</svg>

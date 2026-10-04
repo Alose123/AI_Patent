@@ -1,0 +1,55 @@
+{
+  "target_rows": 7813,
+  "tables": [
+    {
+      "table": "g_cpc_current",
+      "bulk_rows_scanned": 56755723,
+      "retained_rows": 68886,
+      "retained_patents": 7807,
+      "exact_duplicate_rows": 0
+    },
+    {
+      "table": "g_cpc_at_issue",
+      "bulk_rows_scanned": 23166175,
+      "retained_rows": 42268,
+      "retained_patents": 7546,
+      "exact_duplicate_rows": 0
+    },
+    {
+      "table": "g_patent",
+      "bulk_rows_scanned": 9075421,
+      "retained_rows": 7813,
+      "retained_patents": 7813,
+      "exact_duplicate_rows": 0
+    },
+    {
+      "table": "g_patent_abstract",
+      "bulk_rows_scanned": 9075421,
+      "retained_rows": 7813,
+      "retained_patents": 7813,
+      "exact_duplicate_rows": 0
+    },
+    {
+      "table": "g_application",
+      "bulk_rows_scanned": 9073162,
+      "retained_rows": 7813,
+      "retained_patents": 7813,
+      "exact_duplicate_rows": 0
+    }
+  ],
+  "field_missing": {
+    "patent_title": 0,
+    "patent_abstract": 0,
+    "filing_date": 0
+  },
+  "grant_dates_exactly_match": true,
+  "left_join_rows_preserved": true,
+  "application_check": {
+    "note": "Application ID formatting is compared separately; grant date equality is asserted.",
+    "application_columns": [
+      "application_id",
+      "patent_application_type",
+      "filing_date"
+    ]
+  }
+}
