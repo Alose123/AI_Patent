@@ -1,0 +1,24 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: analysis___outputs___tables___derived_variable_dictionary.csv>
+index,variable,definition
+0,n_components50,Number of the eight component flags positive at 50% score cutoff; 0 to 8.
+1,nonhardware50,"At least one of seven components other than AI hardware at 50%; robustness definition, not a superior AI ground truth."
+2,hardware_only50,"AI hardware positive at 50%, with none of seven other components positive."
+3,n_components86,Number of the eight component flags positive at 86% score cutoff; 0 to 8.
+4,nonhardware86,"At least one of seven components other than AI hardware at 86%; robustness definition, not a superior AI ground truth."
+5,hardware_only86,"AI hardware positive at 86%, with none of seven other components positive."
+6,n_components93,Number of the eight component flags positive at 93% score cutoff; 0 to 8.
+7,nonhardware93,"At least one of seven components other than AI hardware at 93%; robustness definition, not a superior AI ground truth."
+8,hardware_only93,"AI hardware positive at 93%, with none of seven other components positive."
+9,source_row_number,"Original CSV data line number, starting at 2; original order retained."
+10,grant_year,"Calendar year from pub_dt; all flag_patent values are 1, so this is grant/issue year."
+11,grant_quarter,Calendar quarter from pub_dt.
+12,grant_month,Calendar month from pub_dt.
+13,is_reissue,1 for document IDs beginning RE; these are valid patents and retained.
+14,n_included_companies,Number of distinct supplied company labels for this document.
+15,shared_between_included_companies,1 if more than one of the five selected company labels occurs.
+16,within_sample_fraction,"1/n_included_companies; sums to one per document across selected firms, not true ownership share."
+17,analysis_2010_2023,Main time-trend eligibility; every company has at least 100 records per year in this window.
+18,recent_2021_2023,Recent three-year technology-profile window.
+19,max_ai_score,"Maximum of eight model scores; a diagnostic, not a calibrated probability of any AI."
+20,score_borderline_86,"Maximum score within +/-0.05 of 0.86; threshold sensitivity review flag, not an exclusion."

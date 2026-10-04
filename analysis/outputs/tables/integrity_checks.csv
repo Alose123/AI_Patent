@@ -1,0 +1,32 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: analysis___outputs___tables___integrity_checks.csv>
+index,check,failures
+0,missing_required_identity,0
+1,doc_patent_id_mismatch,0
+2,malformed_patent_id,0
+3,malformed_application_id,0
+4,unparsable_date,0
+5,unexpected_company,0
+6,unexpected_document_type,0
+7,exact_duplicate_rows,0
+8,duplicate_patent_company_rows,0
+9,duplicate_patent_assignee_sequence,0
+10,assignee_id_multiple_company_labels,0
+11,negative_assignee_sequence,0
+12,nonintegral_assignee_sequence,0
+13,shared_document_metadata_conflicts,0
+14,any_ai_or_mismatch_50,0
+15,any_ai_invalid_flag_50,0
+16,any_ai_or_mismatch_86,0
+17,any_ai_invalid_flag_86,0
+18,any_ai_or_mismatch_93,0
+19,any_ai_invalid_flag_93,0
+20,non_nested_thresholds_any_ai,0
+21,non_nested_thresholds_ml,0
+22,non_nested_thresholds_evo,0
+23,non_nested_thresholds_nlp,0
+24,non_nested_thresholds_speech,0
+25,non_nested_thresholds_vision,0
+26,non_nested_thresholds_planning,0
+27,non_nested_thresholds_kr,0
+28,non_nested_thresholds_hardware,0

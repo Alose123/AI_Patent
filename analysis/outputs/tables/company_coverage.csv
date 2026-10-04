@@ -1,0 +1,8 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: analysis___outputs___tables___company_coverage.csv>
+index,company,rows,unique_patents,first_date,last_date,assignee_ids,missing_location
+0,Google,25520,25520,2003-02-25,2023-12-26,1,60
+1,IBM,159001,159001,1976-01-06,2023-12-26,2,55
+2,Microsoft,47352,47352,1986-05-13,2023-12-26,2,45
+3,NVIDIA,4491,4491,1997-04-08,2023-12-26,2,9
+4,Qualcomm,35051,35051,1989-10-24,2023-12-26,3,61

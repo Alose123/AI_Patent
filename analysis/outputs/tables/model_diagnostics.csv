@@ -1,0 +1,13 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: analysis___outputs___tables___model_diagnostics.csv>
+index,company,outcome,linear_r2,quadratic_r2,quadratic_r2_gain,lag1_residual_corr,fitted_min,fitted_max,max_abs_residual_pp,assessment
+0,IBM,any_ai,0.8417409317,0.8967219489,0.05498101721,0.5124196412,0.4148537766,0.6595305414,6.09378629,Linear summary reasonably tracks annual shares; inspect residuals
+1,NVIDIA,any_ai,0.6728753031,0.9038925214,0.2310172183,0.7003648028,0.3581287338,0.6398968747,9.11164803,Inspect curvature; linear slope is only an average time summary
+2,Qualcomm,any_ai,0.04683985082,0.7487947077,0.7019548569,0.8139955134,0.1493064564,0.1784185717,7.11394622,Inspect curvature; linear slope is only an average time summary
+3,Google,any_ai,0.1416454651,0.7999573831,0.658311918,0.4892074266,0.680091445,0.7311248379,6.622803772,Inspect curvature; linear slope is only an average time summary
+4,Microsoft,any_ai,0.1318678886,0.6150642886,0.4831964,0.7108014519,0.6505919338,0.6906282518,6.340097325,Inspect curvature; linear slope is only an average time summary
+5,IBM,ml,0.732824222,0.9585516398,0.2257274178,0.8068302225,-0.00701004902,0.2427313544,8.148953135,Inspect curvature; linear slope is only an average time summary
+6,NVIDIA,ml,0.7280006507,0.9508129146,0.222812264,0.8089100973,-0.07136859273,0.2448583399,9.277574379,Inspect curvature; linear slope is only an average time summary
+7,Qualcomm,ml,0.7297325736,0.8037680331,0.07403545949,0.5123467648,0.003359463984,0.02444309901,0.8158009664,Linear summary reasonably tracks annual shares; inspect residuals
+8,Google,ml,0.009793115814,0.8666312424,0.8568381266,0.6463617011,0.195894179,0.2124231735,8.931777119,Inspect curvature; linear slope is only an average time summary
+9,Microsoft,ml,0.5241880571,0.9222774567,0.3980893996,0.8464456278,0.08216110421,0.2048041398,7.266838765,Inspect curvature; linear slope is only an average time summary
