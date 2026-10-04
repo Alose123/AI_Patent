@@ -1,0 +1,15 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: cpc_extension___outputs___tables___qualcomm_growth_sensitivity.csv>
+index,company,threshold,snapshot,code_type,early_total,late_total,delta_total,early_communications,late_communications,delta_communications,communications_fraction_of_net_increase
+0,Qualcomm,50,current,any,1694,3235,1541,1440,2965,1525,0.9896171317326412
+1,Qualcomm,50,current,inventional,1694,3235,1541,1434,2961,1527,0.990914990266061
+2,Qualcomm,50,issue,any,1694,3235,1541,1432,2952,1520,0.9863724853990916
+3,Qualcomm,50,issue,inventional,1694,3235,1541,1426,2947,1521,0.9870214146658014
+4,Qualcomm,86,current,any,1829,3446,1617,1514,3122,1608,0.9944341372912802
+5,Qualcomm,86,current,inventional,1829,3446,1617,1506,3116,1610,0.9956709956709956
+6,Qualcomm,86,issue,any,1829,3446,1617,1506,3108,1602,0.9907235621521336
+7,Qualcomm,86,issue,inventional,1829,3446,1617,1497,3101,1604,0.9919604205318492
+8,Qualcomm,93,current,any,1870,3500,1630,1531,3154,1623,0.9957055214723928
+9,Qualcomm,93,current,inventional,1870,3500,1630,1523,3148,1625,0.9969325153374232
+10,Qualcomm,93,issue,any,1870,3500,1630,1523,3140,1617,0.9920245398773008
+11,Qualcomm,93,issue,inventional,1870,3500,1630,1514,3133,1619,0.9932515337423312

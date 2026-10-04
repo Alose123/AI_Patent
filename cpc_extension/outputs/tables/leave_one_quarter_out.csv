@@ -1,0 +1,5 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: cpc_extension___outputs___tables___leave_one_quarter_out.csv>
+index,company,feature,full_change_pp,leave_one_quarter_min_pp,leave_one_quarter_max_pp
+0,Qualcomm,text_combined_sidelink,10.293358406050451,9.67672999710039,10.665759947275337
+1,NVIDIA,text_combined_explicit_learning_or_neural,23.791348600508904,23.10924369747899,24.45054945054945

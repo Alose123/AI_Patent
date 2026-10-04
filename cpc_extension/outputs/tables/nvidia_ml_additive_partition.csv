@@ -1,0 +1,10 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: cpc_extension___outputs___tables___nvidia_ml_additive_partition.csv>
+index,cohort,ml_partition,count
+0,2014-2016,ML86 + other evidence,6
+1,2014-2016,"ML86 + vision/control evidence, no explicit learning text",1
+2,2014-2016,Not ML86,1003
+3,2021-2023,ML86 + explicit learning/neural text,177
+4,2021-2023,ML86 + other evidence,15
+5,2021-2023,"ML86 + vision/control evidence, no explicit learning text",38
+6,2021-2023,Not ML86,556

@@ -1,0 +1,13 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: cpc_extension___outputs___tables___nvidia_explicit_learning_below_ml86.csv>
+index,doc_id,patent_title,ai_score_ml,predict50_ml,predict86_ml,predict93_ml,current_cpc_subclasses
+0,10891538,Sparse convolutional neural network accelerator,0.00048368954,0,0,0,G06F|G06N
+1,11144754,Gaze detection using one or more neural networks,0.53133696,1,0,0,G06F|G06N|G06V
+2,11249727,Efficient matrix data format applicable for artificial neural network,0.82436275,1,0,0,G06F|G06N
+3,11379420,Decompression techniques for processing compressed data suitable for artificial neural networks,0.005006582,0,0,0,G06F|G06N|H03M
+4,11489541,Compression techniques for data structures suitable for artificial neural networks,0.5800302,1,0,0,G06N|H03M
+5,11798183,Machine learning techniques for predicting depth information in image data,0.78113914,1,0,0,G05D|G06N|G06T
+6,11803759,Gaze detection using one or more neural networks,0.014319016,0,0,0,G06F|G06N|G06V
+7,11810268,Image enhancement using one or more neural networks,0.00035148751,0,0,0,G06T
+8,11810308,Vertical disparity detection in stereoscopic images using a deep neural network,0.020401519,0,0,0,G06F|G06N|G06T|H04N
+9,11847550,Sparse convolutional neural network accelerator,0.0034489378,0,0,0,G06F|G06N
