@@ -1,0 +1,91 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: cpc_extension___data___data_dictionary.csv>
+index,column,dtype,description
+0,doc_id,object,"Original USPTO grant identifier; kept as text, including RE prefixes."
+1,appl_id,object,Original application identifier; kept as text.
+2,pub_dt,object,"Original grant-publication date, not first pre-grant publication or innovation date."
+3,company,object,Original company label.
+4,cohort,object,"Comparison period; Qualcomm single-year, NVIDIA equal three-year periods."
+5,grant_year,int64,Year of original grant publication.
+6,grant_quarter,int64,"Quarter-of-year, 1–4."
+7,predict50_any_ai,int64,"Original supplied AIPD binary flag at the named cutoff/component. The 86 cutoff is a score threshold, not 86% precision."
+8,predict86_any_ai,int64,"Original supplied AIPD binary flag at the named cutoff/component. The 86 cutoff is a score threshold, not 86% precision."
+9,predict93_any_ai,int64,"Original supplied AIPD binary flag at the named cutoff/component. The 86 cutoff is a score threshold, not 86% precision."
+10,predict50_ml,int64,"Original supplied AIPD binary flag at the named cutoff/component. The 86 cutoff is a score threshold, not 86% precision."
+11,predict86_ml,int64,"Original supplied AIPD binary flag at the named cutoff/component. The 86 cutoff is a score threshold, not 86% precision."
+12,predict93_ml,int64,"Original supplied AIPD binary flag at the named cutoff/component. The 86 cutoff is a score threshold, not 86% precision."
+13,ai_score_ml,float64,Supplied AIPD ML classification score; not a validated probability of technical truth.
+14,predict86_vision,int64,"Original supplied AIPD binary flag at the named cutoff/component. The 86 cutoff is a score threshold, not 86% precision."
+15,predict86_hardware,int64,"Original supplied AIPD binary flag at the named cutoff/component. The 86 cutoff is a score threshold, not 86% precision."
+16,is_reissue,int64,Original RE indicator; no reissue observations deleted.
+17,patent_type,object,Official metadata or derived internal field; see stage code for exact derivation.
+18,patent_date,object,Official metadata or derived internal field; see stage code for exact derivation.
+19,patent_title,object,Official PatentsView title.
+20,wipo_kind,object,Official metadata or derived internal field; see stage code for exact derivation.
+21,num_claims,int64,Official metadata or derived internal field; see stage code for exact derivation.
+22,withdrawn,int64,Official metadata or derived internal field; see stage code for exact derivation.
+23,filename,object,Official metadata or derived internal field; see stage code for exact derivation.
+24,patent_abstract,object,Official PatentsView grant abstract; not full claims/specification.
+25,application_id,object,Official metadata or derived internal field; see stage code for exact derivation.
+26,patent_application_type,int64,Official metadata or derived internal field; see stage code for exact derivation.
+27,filing_date,object,Direct application filing date; not earliest patent-family priority.
+28,series_code,int64,Official metadata or derived internal field; see stage code for exact derivation.
+29,rule_47_flag,int64,Official metadata or derived internal field; see stage code for exact derivation.
+30,current_cpc_subclasses,object,Unique sorted pipe-separated CPC subclasses in December 2024 snapshot; empty means unavailable.
+31,issue_cpc_subclasses,object,Unique sorted pipe-separated CPC subclasses at grant; empty means unavailable.
+32,filing_year,int64,Year of direct application filing.
+33,grant_lag_years,float64,(Grant date minus direct filing date)/365.25.
+34,grant_period,object,Year-quarter for influence checks.
+35,text_title_sidelink,bool,"Exploratory literal-rule match in title only; regex: \bsidelink\b. Themes overlap, not ground-truth labels."
+36,text_combined_sidelink,bool,"Exploratory literal-rule match in combined title and abstract; regex: \bsidelink\b. Themes overlap, not ground-truth labels."
+37,text_title_beam_or_beamforming,bool,"Exploratory literal-rule match in title only; regex: \bbeam(?:s|forming)?\b. Themes overlap, not ground-truth labels."
+38,text_combined_beam_or_beamforming,bool,"Exploratory literal-rule match in combined title and abstract; regex: \bbeam(?:s|forming)?\b. Themes overlap, not ground-truth labels."
+39,text_title_uplink,bool,"Exploratory literal-rule match in title only; regex: \buplink\b. Themes overlap, not ground-truth labels."
+40,text_combined_uplink,bool,"Exploratory literal-rule match in combined title and abstract; regex: \buplink\b. Themes overlap, not ground-truth labels."
+41,text_title_downlink,bool,"Exploratory literal-rule match in title only; regex: \bdownlink\b. Themes overlap, not ground-truth labels."
+42,text_combined_downlink,bool,"Exploratory literal-rule match in combined title and abstract; regex: \bdownlink\b. Themes overlap, not ground-truth labels."
+43,text_title_user_equipment,bool,"Exploratory literal-rule match in title only; regex: \buser equipment\b. Themes overlap, not ground-truth labels."
+44,text_combined_user_equipment,bool,"Exploratory literal-rule match in combined title and abstract; regex: \buser equipment\b. Themes overlap, not ground-truth labels."
+45,text_title_channel_state,bool,"Exploratory literal-rule match in title only; regex: \bchannel state\b. Themes overlap, not ground-truth labels."
+46,text_combined_channel_state,bool,"Exploratory literal-rule match in combined title and abstract; regex: \bchannel state\b. Themes overlap, not ground-truth labels."
+47,text_title_harq,bool,"Exploratory literal-rule match in title only; regex: \bharq\b|\bhybrid automatic repeat request\b. Themes overlap, not ground-truth labels."
+48,text_combined_harq,bool,"Exploratory literal-rule match in combined title and abstract; regex: \bharq\b|\bhybrid automatic repeat request\b. Themes overlap, not ground-truth labels."
+49,text_title_random_access,bool,"Exploratory literal-rule match in title only; regex: \brandom access\b. Themes overlap, not ground-truth labels."
+50,text_combined_random_access,bool,"Exploratory literal-rule match in combined title and abstract; regex: \brandom access\b. Themes overlap, not ground-truth labels."
+51,text_title_new_radio_or_5g,bool,"Exploratory literal-rule match in title only; regex: \bnew radio\b|\b5g\b|\bfifth.generation\b. Themes overlap, not ground-truth labels."
+52,text_combined_new_radio_or_5g,bool,"Exploratory literal-rule match in combined title and abstract; regex: \bnew radio\b|\b5g\b|\bfifth.generation\b. Themes overlap, not ground-truth labels."
+53,text_title_wireless,bool,"Exploratory literal-rule match in title only; regex: \bwireless\b. Themes overlap, not ground-truth labels."
+54,text_combined_wireless,bool,"Exploratory literal-rule match in combined title and abstract; regex: \bwireless\b. Themes overlap, not ground-truth labels."
+55,text_title_neural_network,bool,"Exploratory literal-rule match in title only; regex: \bneural(?: network)?s?\b. Themes overlap, not ground-truth labels."
+56,text_combined_neural_network,bool,"Exploratory literal-rule match in combined title and abstract; regex: \bneural(?: network)?s?\b. Themes overlap, not ground-truth labels."
+57,text_title_explicit_machine_or_deep_learning,bool,"Exploratory literal-rule match in title only; regex: \bmachine learning\b|\bdeep learning\b. Themes overlap, not ground-truth labels."
+58,text_combined_explicit_machine_or_deep_learning,bool,"Exploratory literal-rule match in combined title and abstract; regex: \bmachine learning\b|\bdeep learning\b. Themes overlap, not ground-truth labels."
+59,text_title_explicit_learning_or_neural,bool,"Exploratory literal-rule match in title only; regex: \bneural(?: network)?s?\b|\bmachine learning\b|\bdeep learning\b. Themes overlap, not ground-truth labels."
+60,text_combined_explicit_learning_or_neural,bool,"Exploratory literal-rule match in combined title and abstract; regex: \bneural(?: network)?s?\b|\bmachine learning\b|\bdeep learning\b. Themes overlap, not ground-truth labels."
+61,text_title_autonomous,bool,"Exploratory literal-rule match in title only; regex: \bautonomous\b. Themes overlap, not ground-truth labels."
+62,text_combined_autonomous,bool,"Exploratory literal-rule match in combined title and abstract; regex: \bautonomous\b. Themes overlap, not ground-truth labels."
+63,text_title_ray_tracing,bool,"Exploratory literal-rule match in title only; regex: \bray[ -]?trac\w*\b. Themes overlap, not ground-truth labels."
+64,text_combined_ray_tracing,bool,"Exploratory literal-rule match in combined title and abstract; regex: \bray[ -]?trac\w*\b. Themes overlap, not ground-truth labels."
+65,text_title_rendering,bool,"Exploratory literal-rule match in title only; regex: \brender\w*\b. Themes overlap, not ground-truth labels."
+66,text_combined_rendering,bool,"Exploratory literal-rule match in combined title and abstract; regex: \brender\w*\b. Themes overlap, not ground-truth labels."
+67,text_title_perception_and_geometry,bool,"Exploratory literal-rule match in title only; regex: \bobject detection\b|\bsemantic segmentation\b|\bpose estimation\b|\bdepth estimation\b|\bscene flow\b|\blane(?:s)?\b. Themes overlap, not ground-truth labels."
+68,text_combined_perception_and_geometry,bool,"Exploratory literal-rule match in combined title and abstract; regex: \bobject detection\b|\bsemantic segmentation\b|\bpose estimation\b|\bdepth estimation\b|\bscene flow\b|\blane(?:s)?\b. Themes overlap, not ground-truth labels."
+69,text_title_precision_or_acceleration,bool,"Exploratory literal-rule match in title only; regex: \baccelerator(?:s)?\b|\blower precision\b|\blow.precision\b|\bquantiz\w*\b|\btensor(?:s)?\b. Themes overlap, not ground-truth labels."
+70,text_combined_precision_or_acceleration,bool,"Exploratory literal-rule match in combined title and abstract; regex: \baccelerator(?:s)?\b|\blower precision\b|\blow.precision\b|\bquantiz\w*\b|\btensor(?:s)?\b. Themes overlap, not ground-truth labels."
+71,cpc_current_communications,bool,"Derived patent-level CPC membership. Communications: H04W/L/B/J/K/M; image/vision: G06T/V; harmonized vision adds legacy G06K9/ groups; control/navigation: G05D/B60W/G08G/G01C. Inventional-only columns restrict CPC type. Missing CPC yields False, interpreted with missing-code columns, not as technology absence."
+72,cpc_current_wireless,bool,"Derived patent-level CPC membership. Communications: H04W/L/B/J/K/M; image/vision: G06T/V; harmonized vision adds legacy G06K9/ groups; control/navigation: G05D/B60W/G08G/G01C. Inventional-only columns restrict CPC type. Missing CPC yields False, interpreted with missing-code columns, not as technology absence."
+73,cpc_current_specific_models,bool,"Derived patent-level CPC membership. Communications: H04W/L/B/J/K/M; image/vision: G06T/V; harmonized vision adds legacy G06K9/ groups; control/navigation: G05D/B60W/G08G/G01C. Inventional-only columns restrict CPC type. Missing CPC yields False, interpreted with missing-code columns, not as technology absence."
+74,cpc_current_image_or_vision,bool,"Derived patent-level CPC membership. Communications: H04W/L/B/J/K/M; image/vision: G06T/V; harmonized vision adds legacy G06K9/ groups; control/navigation: G05D/B60W/G08G/G01C. Inventional-only columns restrict CPC type. Missing CPC yields False, interpreted with missing-code columns, not as technology absence."
+75,cpc_current_control_or_navigation,bool,"Derived patent-level CPC membership. Communications: H04W/L/B/J/K/M; image/vision: G06T/V; harmonized vision adds legacy G06K9/ groups; control/navigation: G05D/B60W/G08G/G01C. Inventional-only columns restrict CPC type. Missing CPC yields False, interpreted with missing-code columns, not as technology absence."
+76,cpc_current_harmonized_vision,bool,"Derived patent-level CPC membership. Communications: H04W/L/B/J/K/M; image/vision: G06T/V; harmonized vision adds legacy G06K9/ groups; control/navigation: G05D/B60W/G08G/G01C. Inventional-only columns restrict CPC type. Missing CPC yields False, interpreted with missing-code columns, not as technology absence."
+77,cpc_current_inventional_communications,bool,"Derived patent-level CPC membership. Communications: H04W/L/B/J/K/M; image/vision: G06T/V; harmonized vision adds legacy G06K9/ groups; control/navigation: G05D/B60W/G08G/G01C. Inventional-only columns restrict CPC type. Missing CPC yields False, interpreted with missing-code columns, not as technology absence."
+78,cpc_issue_communications,bool,"Derived patent-level CPC membership. Communications: H04W/L/B/J/K/M; image/vision: G06T/V; harmonized vision adds legacy G06K9/ groups; control/navigation: G05D/B60W/G08G/G01C. Inventional-only columns restrict CPC type. Missing CPC yields False, interpreted with missing-code columns, not as technology absence."
+79,cpc_issue_wireless,bool,"Derived patent-level CPC membership. Communications: H04W/L/B/J/K/M; image/vision: G06T/V; harmonized vision adds legacy G06K9/ groups; control/navigation: G05D/B60W/G08G/G01C. Inventional-only columns restrict CPC type. Missing CPC yields False, interpreted with missing-code columns, not as technology absence."
+80,cpc_issue_specific_models,bool,"Derived patent-level CPC membership. Communications: H04W/L/B/J/K/M; image/vision: G06T/V; harmonized vision adds legacy G06K9/ groups; control/navigation: G05D/B60W/G08G/G01C. Inventional-only columns restrict CPC type. Missing CPC yields False, interpreted with missing-code columns, not as technology absence."
+81,cpc_issue_image_or_vision,bool,"Derived patent-level CPC membership. Communications: H04W/L/B/J/K/M; image/vision: G06T/V; harmonized vision adds legacy G06K9/ groups; control/navigation: G05D/B60W/G08G/G01C. Inventional-only columns restrict CPC type. Missing CPC yields False, interpreted with missing-code columns, not as technology absence."
+82,cpc_issue_control_or_navigation,bool,"Derived patent-level CPC membership. Communications: H04W/L/B/J/K/M; image/vision: G06T/V; harmonized vision adds legacy G06K9/ groups; control/navigation: G05D/B60W/G08G/G01C. Inventional-only columns restrict CPC type. Missing CPC yields False, interpreted with missing-code columns, not as technology absence."
+83,cpc_issue_harmonized_vision,bool,"Derived patent-level CPC membership. Communications: H04W/L/B/J/K/M; image/vision: G06T/V; harmonized vision adds legacy G06K9/ groups; control/navigation: G05D/B60W/G08G/G01C. Inventional-only columns restrict CPC type. Missing CPC yields False, interpreted with missing-code columns, not as technology absence."
+84,cpc_issue_inventional_communications,bool,"Derived patent-level CPC membership. Communications: H04W/L/B/J/K/M; image/vision: G06T/V; harmonized vision adds legacy G06K9/ groups; control/navigation: G05D/B60W/G08G/G01C. Inventional-only columns restrict CPC type. Missing CPC yields False, interpreted with missing-code columns, not as technology absence."
+85,application_id_normalized,int64,Official metadata or derived internal field; see stage code for exact derivation.
+86,original_application_normalized,int64,Official metadata or derived internal field; see stage code for exact derivation.
+87,application_id_agrees,bool,Internal normalized application-ID agreement; not a company coverage measure.

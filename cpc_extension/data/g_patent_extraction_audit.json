@@ -1,0 +1,7 @@
+{
+  "table": "g_patent",
+  "bulk_rows_scanned": 9075421,
+  "retained_rows": 7813,
+  "retained_patents": 7813,
+  "exact_duplicate_rows": 0
+}

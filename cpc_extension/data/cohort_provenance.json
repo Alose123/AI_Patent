@@ -1,0 +1,11 @@
+{
+  "cohort_frame_sha256": "f4fdc65071bfba1448107e9ac63d25d56f0ab996fd3b38ffd2d897dc55beb256",
+  "original_source_sha256": "d34cf61d30554b30ddb6d8e7f06f7a3bc130799f643f95aef6c282d53de69e79",
+  "original_source_name": "five_big_tech_ai_patents.csv",
+  "original_rows": 271415,
+  "selected_rows": 7813,
+  "out_of_scope_rows": 263602,
+  "scope": "Qualcomm grant years 2021 and 2023; NVIDIA 2014\u20132016 and 2021\u20132023. All rows in these cohorts retained.",
+  "selection_basis": "Follow-up to exploratory findings, not preregistration.",
+  "scope_reconstruction_verified_against_saved_clean_dataset": true
+}

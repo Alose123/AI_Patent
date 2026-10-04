@@ -1,0 +1,23 @@
+{
+  "rules": {
+    "sidelink": "\\bsidelink\\b",
+    "beam_or_beamforming": "\\bbeam(?:s|forming)?\\b",
+    "uplink": "\\buplink\\b",
+    "downlink": "\\bdownlink\\b",
+    "user_equipment": "\\buser equipment\\b",
+    "channel_state": "\\bchannel state\\b",
+    "harq": "\\bharq\\b|\\bhybrid automatic repeat request\\b",
+    "random_access": "\\brandom access\\b",
+    "new_radio_or_5g": "\\bnew radio\\b|\\b5g\\b|\\bfifth.generation\\b",
+    "wireless": "\\bwireless\\b",
+    "neural_network": "\\bneural(?: network)?s?\\b",
+    "explicit_machine_or_deep_learning": "\\bmachine learning\\b|\\bdeep learning\\b",
+    "explicit_learning_or_neural": "\\bneural(?: network)?s?\\b|\\bmachine learning\\b|\\bdeep learning\\b",
+    "autonomous": "\\bautonomous\\b",
+    "ray_tracing": "\\bray[ -]?trac\\w*\\b",
+    "rendering": "\\brender\\w*\\b",
+    "perception_and_geometry": "\\bobject detection\\b|\\bsemantic segmentation\\b|\\bpose estimation\\b|\\bdepth estimation\\b|\\bscene flow\\b|\\blane(?:s)?\\b",
+    "precision_or_acceleration": "\\baccelerator(?:s)?\\b|\\blower precision\\b|\\blow.precision\\b|\\bquantiz\\w*\\b|\\btensor(?:s)?\\b"
+  },
+  "note": "Exploratory; literal title/abstract indicators; overlapping; not ground truth."
+}

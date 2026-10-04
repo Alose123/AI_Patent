@@ -1,0 +1,50 @@
+[
+  {
+    "file": "g_cpc_current.tsv.zip",
+    "url": "https://zenodo.org/api/records/15783125/files/g_cpc_current.tsv.zip/content",
+    "bytes": 485195636,
+    "md5": "8211b681c392b2810b5a848e1fcfa308",
+    "release_date": "2024-12-31",
+    "retrieved_utc": "2026-10-04"
+  },
+  {
+    "file": "g_cpc_at_issue.tsv.zip",
+    "url": "https://zenodo.org/api/records/15783125/files/g_cpc_at_issue.tsv.zip/content",
+    "bytes": 321099326,
+    "md5": "6541c50b236d711f4b8f379a854a0c8a",
+    "release_date": "2024-12-31",
+    "retrieved_utc": "2026-10-04"
+  },
+  {
+    "file": "g_cpc_title.tsv.zip",
+    "url": "https://zenodo.org/api/records/15783125/files/g_cpc_title.tsv.zip/content",
+    "bytes": 6427461,
+    "md5": "64e5f5e5decd1a1cac171ec550f5352c",
+    "release_date": "2024-12-31",
+    "retrieved_utc": "2026-10-04"
+  },
+  {
+    "file": "g_patent.tsv.zip",
+    "url": "https://zenodo.org/api/records/15783125/files/g_patent.tsv.zip/content",
+    "bytes": 223192856,
+    "md5": "f74fbde4b2adbf980b8e4ed5394f16d2",
+    "release_date": "2024-12-31",
+    "retrieved_utc": "2026-10-04"
+  },
+  {
+    "file": "g_patent_abstract.tsv.zip",
+    "url": "https://zenodo.org/api/records/15783125/files/g_patent_abstract.tsv.zip/content",
+    "bytes": 1647990737,
+    "md5": "bb7ff59781633edb61032429a7d8f6f1",
+    "release_date": "2024-12-31",
+    "retrieved_utc": "2026-10-04"
+  },
+  {
+    "file": "g_application.tsv.zip",
+    "url": "https://zenodo.org/api/records/15783125/files/g_application.tsv.zip/content",
+    "bytes": 68669855,
+    "md5": "26001068098f4240e0762c63ffbb331e",
+    "release_date": "2024-12-31",
+    "retrieved_utc": "2026-10-04"
+  }
+]

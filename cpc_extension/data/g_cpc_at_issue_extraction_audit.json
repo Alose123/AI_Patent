@@ -1,0 +1,7 @@
+{
+  "table": "g_cpc_at_issue",
+  "bulk_rows_scanned": 23166175,
+  "retained_rows": 42268,
+  "retained_patents": 7546,
+  "exact_duplicate_rows": 0
+}
