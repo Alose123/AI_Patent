@@ -1,0 +1,5 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: cpc_extension___outputs___tables___share_change_accounting.csv>
+index,company,flag,early_positive,late_positive,early_negative,late_negative,share_change_pp,positive_count_contribution_pp,negative_count_contribution_pp,method
+0,Qualcomm,predict86_any_ai,318,424,1829,3446,-3.8552923435019606,3.257800272781826,-7.113092616283787,Two-factor Shapley accounting: average both update orders; not a causal effect
+1,NVIDIA,predict86_ml,7,230,1003,556,28.569017207064217,22.989684069802337,5.579333137261881,Two-factor Shapley accounting: average both update orders; not a causal effect
