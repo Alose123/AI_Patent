@@ -1,0 +1,16 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: analysis___outputs___tables___annual_anomalies.csv>
+index,company,year,total_patents,predict86_any_ai,total_yoy_pct,ai86_yoy_pct,action
+0,Google,2011,426,338,54.34782609,55.04587156,"Retain; descriptive large-change flag, investigate volume/composition/coverage."
+1,Google,2012,1150,782,169.9530516,131.3609467,"Retain; descriptive large-change flag, investigate volume/composition/coverage."
+2,Google,2013,1849,1335,60.7826087,70.71611253,"Retain; descriptive large-change flag, investigate volume/composition/coverage."
+3,Google,2014,2568,1825,38.88588426,36.70411985,"Retain; descriptive large-change flag, investigate volume/composition/coverage."
+4,IBM,2022,4398,3070,-49.33179724,-43.31610044,"Retain; descriptive large-change flag, investigate volume/composition/coverage."
+5,Microsoft,2019,3077,2024,30.88047639,37.68707483,"Retain; descriptive large-change flag, investigate volume/composition/coverage."
+6,NVIDIA,2021,205,138,31.41025641,48.38709677,"Retain; descriptive large-change flag, investigate volume/composition/coverage."
+7,NVIDIA,2023,369,252,74.05660377,75.0,"Retain; descriptive large-change flag, investigate volume/composition/coverage."
+8,Qualcomm,2011,1044,112,35.23316062,15.46391753,"Retain; descriptive large-change flag, investigate volume/composition/coverage."
+9,Qualcomm,2012,1380,173,32.18390805,54.46428571,"Retain; descriptive large-change flag, investigate volume/composition/coverage."
+10,Qualcomm,2013,2159,304,56.44927536,75.72254335,"Retain; descriptive large-change flag, investigate volume/composition/coverage."
+11,Qualcomm,2015,3006,593,12.66866567,53.22997416,"Retain; descriptive large-change flag, investigate volume/composition/coverage."
+12,Qualcomm,2023,3870,424,46.81335357,9.844559585,"Retain; descriptive large-change flag, investigate volume/composition/coverage."

@@ -1,0 +1,9 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: analysis___outputs___tables___analysis_scope_ledger.csv>
+index,analysis,reason,rows_excluded,rows_retained
+0,clean dataset and full-history EDA,none,0,271415
+1,main annual trends and equal-year comparison,outside calendar grant years 2010-2023,73599,197816
+2,recent technology profile and co-occurrence,outside grant years 2021-2023,234310,37105
+3,no-reissue sensitivity only,valid RE patents omitted as a sensitivity,143,271272
+4,pooled unique document summary only,"collapse co-assignee memberships to a single consistent document, retain both in main dataset",1,271414
+5,small observed entity sensitivity only,omit assignee IDs comprising less than 1% of their company records in this extract,673,270742
