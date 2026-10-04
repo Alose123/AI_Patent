@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "checks": [
+    "All selected original fields and all 7,813 rows exactly preserved in the enriched analysis dataset.",
+    "Dates and normalized application identifiers exactly agree with the official metadata.",
+    "Retained ML flags agree with original scores and cutoff definitions; any-AI flags are nested.",
+    "No missing title/abstract/filing dates or invalid lags; six current-CPC absences are retained reissues.",
+    "Fractional CPC credits conserve classified-patent totals in every cohort, population and snapshot.",
+    "Additive technology partitions and two-factor share decompositions reconcile exactly.",
+    "At-issue sensitivity excludes only recorded missing-snapshot cases; main cohorts retain all observations.",
+    "Focused HTML contains six embedded figures and no company/merge-completeness section.",
+    "Cohort source and manually reviewed primary patent PDF hashes unchanged."
+  ]
+}
