@@ -1,0 +1,18 @@
+# Large/local patent data
+*.zip
+*.pdf
+*.csv.gz
+five_big_tech_ai_patents*.csv
+cache/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
