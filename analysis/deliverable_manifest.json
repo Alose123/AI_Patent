@@ -1,0 +1,330 @@
+{
+  "file_count": 65,
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3573,
+      "sha256": "2305191e7f38b16e6166c67c4efd4e1e5cdbb60494c8209003adefc1fdbd8759"
+    },
+    {
+      "path": "code/01_data_validation.py",
+      "bytes": 7420,
+      "sha256": "8a3ced80003ba1cd8c2192952576fd10f5ce4ef39690c810c32ed89e38503239"
+    },
+    {
+      "path": "code/02_cleaning.py",
+      "bytes": 6475,
+      "sha256": "978922dfa0811a4d495c98f05be05c252bdd72b96d255eb566c7d5ef308b31be"
+    },
+    {
+      "path": "code/03_eda.py",
+      "bytes": 15641,
+      "sha256": "458836e177fcf611b31e5ee69e6309fe4332186481b8eec67146b1eefa5b3dd8"
+    },
+    {
+      "path": "code/04_statistical_analysis.py",
+      "bytes": 11596,
+      "sha256": "de67511b264df9376f061c8daa12de0f6d51f0ea17f28b5600b1f1215292be5c"
+    },
+    {
+      "path": "code/05_modelling.py",
+      "bytes": 1966,
+      "sha256": "984a2e839262ae174288295b0fc8c45e6e3e2677171a2eba386cc07087b2a9ed"
+    },
+    {
+      "path": "code/06_results.py",
+      "bytes": 37360,
+      "sha256": "204241ea70124ae949cd953b4809435058f1e26189b360e9357b54994cfb21a2"
+    },
+    {
+      "path": "code/common.py",
+      "bytes": 5718,
+      "sha256": "431956c28c1f296401a2076683c4c504aecb568622528a4798ae8bbbf937b48b"
+    },
+    {
+      "path": "code/run_pipeline.py",
+      "bytes": 1088,
+      "sha256": "c93bdf0014a2faf523ba547f4fec4a8945c748f7e698e68b303e9d733c4db605"
+    },
+    {
+      "path": "outputs/analysis_report.html",
+      "bytes": 1313502,
+      "sha256": "b1b0a22e84e86f8521f220b67a604409b12ed94986994ab8a9a307ac9ecbc24a"
+    },
+    {
+      "path": "outputs/analysis_report.md",
+      "bytes": 21864,
+      "sha256": "ab1837982af0c0f6932300dc962429086464782c505f22b357fab3796fd97164"
+    },
+    {
+      "path": "outputs/audit.json",
+      "bytes": 1794,
+      "sha256": "0e7d8b8acf7fe9cee0ba42f1b0db5bc55e58d0552cebc670207519296b23739e"
+    },
+    {
+      "path": "outputs/clean_patent_company.csv.gz",
+      "bytes": 18672949,
+      "sha256": "dc9f59dd4aebe2a19b6ed69499b72814cd7315b29c79d2bdf9eaf50d13ed93a5"
+    },
+    {
+      "path": "outputs/data_quality_report.md",
+      "bytes": 5316,
+      "sha256": "498c6015ad95cfc7c1b4cb8cdb98743ba671fa79c2481faae99f9dc6c08d4fa2"
+    },
+    {
+      "path": "outputs/eda_summary.json",
+      "bytes": 280,
+      "sha256": "c15504c0f2069afda65c44e4b59665f871fed7a9795059d25e3048c9631158f3"
+    },
+    {
+      "path": "outputs/figures/01_history_coverage.png",
+      "bytes": 72061,
+      "sha256": "b6d1c0c98035f6a84d7956aa93ad812824620b3e5bfd17cbabf370256872adbd"
+    },
+    {
+      "path": "outputs/figures/01_history_coverage.svg",
+      "bytes": 61252,
+      "sha256": "b7381c4d267d025bd8be3e52ef6fd9ac2b9ae93f06380db765fcf7d706363458"
+    },
+    {
+      "path": "outputs/figures/02_counts_and_shares.png",
+      "bytes": 257217,
+      "sha256": "37bfbd8e2ad2bdcb6a51bd8d9d24552992c828a3ed4942f1a8979d69b065fa6a"
+    },
+    {
+      "path": "outputs/figures/02_counts_and_shares.svg",
+      "bytes": 115586,
+      "sha256": "b3934ea89ea2b6ce1aa442e1cb59e66dabcaee3f75b9bc7b231c6827163fea61"
+    },
+    {
+      "path": "outputs/figures/03_threshold_sensitivity.png",
+      "bytes": 191984,
+      "sha256": "987290dc4b58b3fcb0635e33f69851c7c88b0078b3816df20f681ab3f3c9f877"
+    },
+    {
+      "path": "outputs/figures/03_threshold_sensitivity.svg",
+      "bytes": 78222,
+      "sha256": "22822a8a8961a7b5eef92201ae254a56209af83df52056fadfe5ee1284047de4"
+    },
+    {
+      "path": "outputs/figures/04_recent_technology_profile.png",
+      "bytes": 152934,
+      "sha256": "f4dfcd1b0de602f4e671b900148a8a1715ea03f2227f83c2f86c099bd4f1579d"
+    },
+    {
+      "path": "outputs/figures/04_recent_technology_profile.svg",
+      "bytes": 85526,
+      "sha256": "dcad95c7a2b2637027d7ab43c8b6e7bf5d6d69401371fe779c48c97db9c3b4ca"
+    },
+    {
+      "path": "outputs/figures/05_technology_mix_changes.png",
+      "bytes": 104397,
+      "sha256": "a838441ddbc58391617301360222a402c0399e27937312261a0c97baa861de7b"
+    },
+    {
+      "path": "outputs/figures/05_technology_mix_changes.svg",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "outputs/figures/06_volume_mix_and_hardware.png",
+      "bytes": 98825,
+      "sha256": "85f79f3652650c1270edebeaa9748fe7fc4774d810d485ee6566affb4afb270f"
+    },
+    {
+      "path": "outputs/figures/06_volume_mix_and_hardware.svg",
+      "bytes": 67363,
+      "sha256": "8f144bce2d56b145af87ce626b4f8503fdd68d513b0ce846d64ef10c4ba05609"
+    },
+    {
+      "path": "outputs/figures/07_annual_trend_intervals.png",
+      "bytes": 87390,
+      "sha256": "657f6f6676407e0b8b55e4d70f98c1e857d4a7f9c2b674e1309665ac1dacef25"
+    },
+    {
+      "path": "outputs/figures/07_annual_trend_intervals.svg",
+      "bytes": 80782,
+      "sha256": "d7da9567c2a761c1aa5e7af90ec2287aec97ff8d3c3b2509e37395bd7175d609"
+    },
+    {
+      "path": "outputs/figures/08_trend_diagnostics.png",
+      "bytes": 268197,
+      "sha256": "239b75db8b9a1ee24569d3d72f9c7813340bc0403885ea30ebab136734541bf0"
+    },
+    {
+      "path": "outputs/figures/08_trend_diagnostics.svg",
+      "bytes": 138228,
+      "sha256": "f012c2e014e776416cd79c95c04577cd7251c4ed6bf2b348d82f09aa743d67b3"
+    },
+    {
+      "path": "outputs/modelling_decision.md",
+      "bytes": 1001,
+      "sha256": "bcb437aeabd1ebaa49641a6ab5d0ee877ae8dd295a02b770c9d34b5640270993"
+    },
+    {
+      "path": "outputs/research_log.jsonl",
+      "bytes": 11326,
+      "sha256": "ef9355218d83c580ecd2a929bd7974b2ad134889f40670ebda8b16da023df592"
+    },
+    {
+      "path": "outputs/research_log.md",
+      "bytes": 11042,
+      "sha256": "bd648b88e9307825d3051e3d24b786bc2ad2e947fb19d4115bb63e445793318e"
+    },
+    {
+      "path": "outputs/statistical_analysis.md",
+      "bytes": 5611,
+      "sha256": "ae197ee62544ca94c089bc805fe64a60299164a865259edb7e013f8d11adb2ca"
+    },
+    {
+      "path": "outputs/tables/analysis_scope_ledger.csv",
+      "bytes": 632,
+      "sha256": "1e17f692148d14ff7f833e13f46ed61808384653172aab7ac357df92fac62d54"
+    },
+    {
+      "path": "outputs/tables/annual_anomalies.csv",
+      "bytes": 1732,
+      "sha256": "9e0b80f0b28a8f22187584fc73b9779f7efcf01c79f0cd43b6eb71d02a0790c7"
+    },
+    {
+      "path": "outputs/tables/annual_company_metrics.csv",
+      "bytes": 98282,
+      "sha256": "e18902d68412c3e68faddcd3b33c099ed034e3febbd3cbcaec9a29343d6bdd9f"
+    },
+    {
+      "path": "outputs/tables/annual_model_residuals.csv",
+      "bytes": 7943,
+      "sha256": "a4254ca6ae0374744b67545c7415c3efc94706e5f28419abcab22cb7d2f6d773"
+    },
+    {
+      "path": "outputs/tables/assignee_year.csv",
+      "bytes": 18907,
+      "sha256": "4426c00d2abfc984245786ec033a155010ca4d93bf779bf0f09da7af8a21e41c"
+    },
+    {
+      "path": "outputs/tables/classification_validation.csv",
+      "bytes": 1061,
+      "sha256": "3975069c1b9df6125ce3070988e0b24c5c87994b1daf7bc58c7ca3c1f066691d"
+    },
+    {
+      "path": "outputs/tables/company_coverage.csv",
+      "bytes": 310,
+      "sha256": "f7b0834b474d224a595de7b39fe6ee23c5df6f7a7e0f43195c1b4ef34283397b"
+    },
+    {
+      "path": "outputs/tables/company_summary_full_history.csv",
+      "bytes": 465,
+      "sha256": "cf35fbe923f9c73e0903e29607facad58921405c915f95e8208c38d02bcada93"
+    },
+    {
+      "path": "outputs/tables/count_share_decomposition.csv",
+      "bytes": 911,
+      "sha256": "3df7003d23bddf304c103cc40e8204ae7257ae9b2d5f2fbfb3ebb543fd886dfc"
+    },
+    {
+      "path": "outputs/tables/coverage_company_month.csv",
+      "bytes": 32504,
+      "sha256": "be299165e03862d55bd074141c859be554b6431b9a4ffe61dfdce453c6eb0d6a"
+    },
+    {
+      "path": "outputs/tables/coverage_company_year.csv",
+      "bytes": 2763,
+      "sha256": "95a8b363ce0da22e32403356c412b7d8fb19aaba13e397ac189a1ecd9113b4fc"
+    },
+    {
+      "path": "outputs/tables/derived_variable_dictionary.csv",
+      "bytes": 2017,
+      "sha256": "2e092cf64f056f0f1dc680cbed79fb441358dae2a91fed715c1aff3965068f76"
+    },
+    {
+      "path": "outputs/tables/empirical_logit_sensitivity.csv",
+      "bytes": 2020,
+      "sha256": "79afc8a77118f904fde7ef4ae08ab8c10a2c88c71dd8d4d2094595bdf7a74fbb"
+    },
+    {
+      "path": "outputs/tables/equal_year_company_comparison.csv",
+      "bytes": 383,
+      "sha256": "71ae6abddaa9f2a2d93c85ffe2d2897b78112e964cd4aea181f7ce5263aba05f"
+    },
+    {
+      "path": "outputs/tables/externally_reviewed_patent_case.csv",
+      "bytes": 595,
+      "sha256": "3544fe0c0bc44cbfd7facbaf02dce72bbbba07684665ad3aa62ae3459cace104"
+    },
+    {
+      "path": "outputs/tables/integrity_checks.csv",
+      "bytes": 827,
+      "sha256": "d9c715223a878d2a9da5120afaef484b606b3fd56d82ec7ce91ac5096f664444"
+    },
+    {
+      "path": "outputs/tables/main_period_month_coverage.csv",
+      "bytes": 1448,
+      "sha256": "e6c24b0f950c8092c852df73d575358cd3547a90a4814653a65a9d683a560ce4"
+    },
+    {
+      "path": "outputs/tables/missing_location_by_year.csv",
+      "bytes": 1066,
+      "sha256": "e595f0cded437026fa3f51fcb096c681144676c4f52aadb4bdf2f40b016431d6"
+    },
+    {
+      "path": "outputs/tables/model_diagnostics.csv",
+      "bytes": 1800,
+      "sha256": "dd324ebc823b3df56a6f9fa528e5458dd4dcf61487da05090f3c9c2af8035e58"
+    },
+    {
+      "path": "outputs/tables/period_comparison.csv",
+      "bytes": 2748,
+      "sha256": "c8507ad618124ffbf7178a03af5ca6df93c357abe43ae4f3e70c2381a934f876"
+    },
+    {
+      "path": "outputs/tables/primary_annual_trends.csv",
+      "bytes": 3118,
+      "sha256": "dcf972f3594765d0a2dce581ed28c5e5ddf000cc67ed2ca94d514d1844aba72e"
+    },
+    {
+      "path": "outputs/tables/recent_component_cooccurrence.csv",
+      "bytes": 8831,
+      "sha256": "cfd005ab6ec34ab7609dc0ec606abe1460fa3f250a36fe290636192d93a5022f"
+    },
+    {
+      "path": "outputs/tables/record_review_candidates.csv",
+      "bytes": 23177,
+      "sha256": "27719dd3d7e7b5600cc8c8adac05fcc486e1108c61b1ef65950cd5e2f98ed4af"
+    },
+    {
+      "path": "outputs/tables/schema_missingness.csv",
+      "bytes": 1217,
+      "sha256": "239bbbeade0d0b734e91be4059250888e3774d9ba84c42a0ec31db5bfb911c41"
+    },
+    {
+      "path": "outputs/tables/secondary_company_trend_contrasts.csv",
+      "bytes": 2814,
+      "sha256": "46ecc8af8a2a2ec9427dbf70bfc27defd5888ce3e95ab2346e873d2833205b25"
+    },
+    {
+      "path": "outputs/tables/shared_patent_records.csv",
+      "bytes": 1308,
+      "sha256": "9faf1aa6296de6743e30ae5d50feb91ba4f29f3dc3b7c9a96c2c2f0b40743d6b"
+    },
+    {
+      "path": "outputs/tables/technology_profiles.csv",
+      "bytes": 14982,
+      "sha256": "3d878c1ce03880d60d09db9925967e7221659a43b862e1760824d8d6e57b6d3a"
+    },
+    {
+      "path": "outputs/tables/trend_robustness.csv",
+      "bytes": 21922,
+      "sha256": "f721e59c76cba7d188e5c2d38e9e242e05f3f9f213de15abe720a656e41fda9e"
+    },
+    {
+      "path": "outputs/verification.json",
+      "bytes": 365,
+      "sha256": "4fc7b5a9285f6da3ff92a8f11cdf32ce0f36b713da9072efb5497b2430c2becb"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 60,
+      "sha256": "46c43b83a40e480e5c4cc98c96651ffe777b89aa1cee5394551f685052f241e0"
+    }
+  ]
+}
